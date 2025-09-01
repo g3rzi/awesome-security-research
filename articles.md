@@ -7,7 +7,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---
 
 ## 📝 Table of Contents
-- [Windows](#windows)
+- [Windows](#windows-)
 - [Linux](#linux-)
 - [Kubernetes & Cloud](#kubernetes--cloud)
 - [Android & Mobile](#android--mobile)
@@ -19,7 +19,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ---
 
-## Windows  
+## 🪟 Windows  
 
 ---
 
