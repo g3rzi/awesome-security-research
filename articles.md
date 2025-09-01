@@ -7,15 +7,15 @@ This file contains the **full list** of articles — the main [README](README.md
 ---
 
 ## 📝 Table of Contents
-- [Windows](#windows-)
-- [Linux](#linux-)
-- [Kubernetes & Cloud](#kubernetes--cloud)
-- [Android & Mobile](#android--mobile)
-- [Web & Identity](#web--identity)
-- [Supply Chain & Secrets](#supplychain--secrets)
-- [Memory & Exploitation](#memory--exploitation)
-- [Cryptography](#cryptography)
-- [Miscellaneous](#miscellaneous)
+- [Windows](#-windows)
+- [Linux](#-linux)
+- [Kubernetes & Cloud](#-kubernetes--cloud)
+- [Android & Mobile](#-android--mobile)
+- [Web & Identity](#-web--identity)
+- [Supply Chain & Secrets](#-supplychain--secrets)
+- [Memory & Exploitation](#-memory--exploitation)
+- [Cryptography](#-cryptography)
+- [Miscellaneous](#-miscellaneous)
 
 ---
 
@@ -23,35 +23,35 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ---
 
-## Linux 🐧
+## 🐧 Linux 
 
 --- 
 
-## Kubernetes & Cloud ☁️ 
+## ☁️ Kubernetes & Cloud  
 
 --- 
 
-## Android & Mobile 📱 
+## 📱 Android & Mobile  
 
 ---
 
-## Identity 🌐
+## 🌐 Identity 
 
 
 --- 
-## Supply Chain & Secrets 🔑
+## 🔑 Supply Chain & Secrets 
 
 ---
 
-## Memory & Exploitation 🧩 
+## 🧩 Memory & Exploitation  
 
 ---
 
-## Cryptography 🔐 
+## 🔐 Cryptography  
 
 ---
 
-## Miscellaneous  🌀
+## 🌀 Miscellaneous  
 
 
 ---
