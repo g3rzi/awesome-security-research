@@ -8,7 +8,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ## 📝 Table of Contents
 - [Windows](#windows)
-- [Linux](#linux)
+- [Linux](#linux-)
 - [Kubernetes & Cloud](#kubernetes--cloud)
 - [Android & Mobile](#android--mobile)
 - [Web & Identity](#web--identity)
