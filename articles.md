@@ -10,6 +10,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Windows](#-windows)
 - [Linux](#-linux)
 - [Kubernetes & Cloud](#-kubernetes--cloud)
+- [Containers](#-containers)
 - [Android & Mobile](#-android--mobile)
 - [Web & Identity](#-web--identity)
 - [Supply Chain & Secrets](#-supplychain--secrets)
@@ -44,7 +45,18 @@ This file contains the **full list** of articles — the main [README](README.md
 
 --- 
 
+## 🐳 Containers 
+
+- [The Route to Root: Container Escape Using Kernel Exploitation](https://www.cyberark.com/resources/threat-research-blog/the-route-to-root-container-escape-using-kernel-exploitation) by Nimrod Stoler
+- [How I Hacked Play-with-Docker and Remotely Ran Code on the Host](https://www.cyberark.com/resources/secure-third-party-vendor-and-remote-access/how-i-hacked-play-with-docker-and-remotely-ran-code-on-the-host) by Nimrod Stoler
+--- 
+
 ## 📱 Android & Mobile  
+
+---
+## Web  
+
+- [How I Found a Critical Password Reset Bug in the BB program(and Got $4,000)](https://medium.com/@s41n1k/how-i-found-a-critical-password-reset-bug-in-the-bb-program-and-got-4-000-a22fffe285e1)
 
 ---
 
@@ -59,7 +71,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 --- 
 ## 🔑 Supply Chain & Secrets 
-[Guest Post: How I Scanned all of GitHub’s “Oops Commits” for Leaked Secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
+- [Guest Post: How I Scanned all of GitHub’s “Oops Commits” for Leaked Secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
 
 
 ---
@@ -74,7 +86,8 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ## 🌀 Miscellaneous  
 
-
+- [Trust Me, I’m a Robot: Can We Trust RPA With Our Most Guarded Secrets?](https://www.cyberark.com/resources/threat-research-blog/trust-me-i-m-a-robot-can-we-trust-rpa-with-our-most-guarded-secrets) by Nimrod Stoler
+- 
 ---
 
 ⭐ Feel free to [contribute](CONTRIBUTING.md) — add new articles under the correct section, keep entries alphabetized, and provide a short description.
