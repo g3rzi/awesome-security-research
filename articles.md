@@ -22,6 +22,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ## 🪟 Windows  
 
+- 🔥 [Abusing Arbitrary File Deletes to Escalate Privilege and Other Great Tricks](https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks)
 - [Pentester’S Windows NTFS Tricks Collection](https://sec-consult.com/blog/detail/pentesters-windows-ntfs-tricks-collection/)  
 ---
 
