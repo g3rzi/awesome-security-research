@@ -12,7 +12,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Kubernetes & Cloud](#-kubernetes--cloud)
 - [Containers](#-containers)
 - [Android & Mobile](#-android--mobile)
-- [Web](#-web)
+- [Web](#web)
 - [Identity](#-identity)
 - [Supply Chain & Secrets](#-supplychain--secrets)
 - [Memory & Exploitation](#-memory--exploitation)
