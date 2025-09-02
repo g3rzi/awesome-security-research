@@ -68,12 +68,17 @@ This file contains the **full list** of articles — the main [README](README.md
 ## Web  
 
 - [How I Found a Critical Password Reset Bug in the BB program(and Got $4,000)](https://medium.com/@s41n1k/how-i-found-a-critical-password-reset-bug-in-the-bb-program-and-got-4-000-a22fffe285e1)
-- [Account Takeover via Password Reset without user interactions](https://gitlab.com/gitlab-org/gitlab/-/issues/436084)  
+- [Account Takeover via Password Reset without user interactions](https://gitlab.com/gitlab-org/gitlab/-/issues/436084)
+- 🔥 [Web Cache Deception Attack](https://omergil.blogspot.com/2017/02/web-cache-deception-attack.html) by Omer Gil, Feburary 27, 2017
+- [Shockwave Identifies Web Cache Deception and Account Takeover Vulnerability affecting OpenAI's ChatGPT](https://www.shockwave.cloud/blog/shockwave-works-with-openai-to-fix-critical-chatgpt-vulnerability) by Gal Nagli, July 15, 2024
+
 ---
 
 ## 🌐 Identity 
 - [Account hijacking using “dirty dancing” in sign-in OAuth-flows](https://labs.detectify.com/writeups/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/) by Frans Rosén
-- 
+- [OAuth Non-Happy Path to ATO](https://blog.voorivex.team/oauth-non-happy-path-to-ato) by Omid Rezaei
+- [Forging Passkeys: Exploring the FIDO2 / WebAuthn Attack Surface](https://nullpt.rs/forging-passkeys) by [vmfunc](https://x.com/vmfunc), June 20, 2025
+
 ### by Aviad Carmel from Salt
 - 🔥 [Traveling with OAuth — Account Takeover on Booking.com](https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com) - 🎥 [Talk](https://www.youtube.com/watch?v=BxiL4Vf_umI)
 - [Salt Labs exposes a new vulnerability in popular OAuth framework, used in hundreds of online services](https://salt.security/blog/a-new-oauth-vulnerability-that-may-impact-hundreds-of-online-services)  
