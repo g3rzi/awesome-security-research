@@ -22,6 +22,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ## 🪟 Windows  
 
+- [Pentester’S Windows NTFS Tricks Collection](https://sec-consult.com/blog/detail/pentesters-windows-ntfs-tricks-collection/)  
 ---
 
 ## 🐧 Linux 
