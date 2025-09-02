@@ -89,7 +89,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ## 🌀 Miscellaneous  
 
 - 🔥 [Trust Me, I’m a Robot: Can We Trust RPA With Our Most Guarded Secrets?](https://www.cyberark.com/resources/threat-research-blog/trust-me-i-m-a-robot-can-we-trust-rpa-with-our-most-guarded-secrets) by Nimrod Stoler
-- 
+- [CVE-2019-1306: Are you my Index?](https://www.zerodayinitiative.com/blog/2019/10/23/cve-2019-1306-are-you-my-index) by Guest Blogger (reported by [Mikhail Shcherbakov](https://x.com/yu5k3))
 ---
 
 ⭐ Feel free to [contribute](CONTRIBUTING.md) — add new articles under the correct section, keep entries alphabetized, and provide a short description.
