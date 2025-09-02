@@ -4,7 +4,7 @@ A curated collection of **vulnerability research articles and blog posts**.
 This file contains the **full list** of articles — the main [README](README.md) only highlights selected ones.
 
 
----
+---   
 
 ## 📝 Table of Contents
 - [Windows](#-windows)
@@ -12,36 +12,37 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Kubernetes & Cloud](#-kubernetes--cloud)
 - [Containers](#-containers)
 - [Android & Mobile](#-android--mobile)
-- [Web & Identity](#-web--identity)
+- [Web](#-web)
+- [Identity](#-identity)
 - [Supply Chain & Secrets](#-supplychain--secrets)
 - [Memory & Exploitation](#-memory--exploitation)
 - [Cryptography](#-cryptography)
 - [Miscellaneous](#-miscellaneous)
 
----
+---  
 
-## 🪟 Windows  
+## 🪟 Windows   
 
 - 🔥 [Abusing Arbitrary File Deletes to Escalate Privilege and Other Great Tricks](https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks)  
 - [Pentester’S Windows NTFS Tricks Collection](https://sec-consult.com/blog/detail/pentesters-windows-ntfs-tricks-collection/)
 
-### Symbolic Links
+### Symbolic Links  
 - [Breaking Antivirus: Arbitrary file deletion using Symbolic link](https://nixhacker.com/breaking-antivirus-arbitrary-delete-using-symbolic-link/)   
 - [An introduction to privileged file operation abuse on Windows](https://offsec.almond.consulting/intro-to-file-operation-abuse-on-Windows.html) by @clavoillotte  
 
----
+---  
 
-## 🐧 Linux 
+## 🐧 Linux  
 
 --- 
 
-## ☁️ Kubernetes & Cloud  
+## ☁️ Kubernetes & Cloud   
 - [Kubernetes Pod Escape Using Log Mounts](https://www.aquasec.com/blog/kubernetes-security-pod-escape-log-mounts/) by Daniel Sagi (from Aqua)  
 - [Dirty DAG: New Vulnerabilities in Azure Data Factory’s Apache Airflow Integration](https://unit42.paloaltonetworks.com/azure-data-factory-apache-airflow-vulnerabilities/) by Ofir Balassiano and David Orlovsky (Palo)
 - [Finding Azurescape – Cross-Account Container Takeover in Azure Container Instances](https://unit42.paloaltonetworks.com/azure-container-instances/) by Yuval Avrahami
 - [SynLapse – Technical Details for Critical Azure Synapse Vulnerability](https://orca.security/resources/blog/synlapse-critical-azure-synapse-analytics-service-vulnerability/) by Tzah Pahima
 - 
-### by Wiz
+### by Wiz  
 - [Breaking NVIDIA Triton: CVE-2025-23319 - A Vulnerability Chain Leading to AI Server Takeover](https://www.wiz.io/blog/nvidia-triton-cve-2025-23319-vuln-chain-to-ai-server)  
 - [NVIDIAScape - Critical NVIDIA AI Vulnerability: A Three-Line Container Escape in NVIDIA Container Toolkit (CVE-2025-23266)](https://www.wiz.io/blog/nvidia-ai-vulnerability-cve-2025-23266-nvidiascape)  
 - [How Wiz found a Critical NVIDIA AI vulnerability:  Deep Dive into a container escape (CVE-2024-0132)](https://www.wiz.io/blog/nvidia-ai-vulnerability-deep-dive-cve-2024-0132)  
@@ -56,7 +57,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 --- 
 
-## 🐳 Containers 
+## 🐳 Containers  
 
 - [The Route to Root: Container Escape Using Kernel Exploitation](https://www.cyberark.com/resources/threat-research-blog/the-route-to-root-container-escape-using-kernel-exploitation) by Nimrod Stoler
 - [How I Hacked Play-with-Docker and Remotely Ran Code on the Host](https://www.cyberark.com/resources/secure-third-party-vendor-and-remote-access/how-i-hacked-play-with-docker-and-remotely-ran-code-on-the-host) by Nimrod Stoler
