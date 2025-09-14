@@ -17,6 +17,17 @@
 A curated collection of vulnerability research articles and blog posts.  
 ➡️ See the full list here: [**Articles.md**](articles.md)
 
+---  
+
+## Tools  
+### Windows  
+- [RPCMon - RPC Monitor tool based on Event Tracing for Windows](https://github.com/cyberark/RPCMon) by Eviatar Gerzi   
+- [PipeViewer - Shows detailed information about named pipes in Windows](https://github.com/cyberark/PipeViewer) by Eviatar Gerzi  
+- [Faxhell - A Proof-of-Concept bind shell using the Fax service and a DLL hijack based on Ualapi.dll](https://github.com/ionescu007/faxhell)
+
+#### Reversing  
+- [dnSpyEx - .NET debugger and assembly editor.](https://github.com/dnSpyEx/dnSpy)  
+- [dnSpy](https://github.com/dnSpy/dnSpy) (original - DEPRECATED) - .NET debugger and assembly editor.  
 
 ---
 
