@@ -15,7 +15,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Web](#web)
 - [Bug Bounty](#bug-bounty)
 - [Identity](#-identity)
-- [Supply Chain & Secrets](#-supplychain--secrets)
+- [Supply Chain & Secrets](#-supply-chain--secrets)
 - [Memory & Exploitation](#-memory--exploitation)
 - [Cryptography](#-cryptography)
 - [Miscellaneous](#-miscellaneous)
