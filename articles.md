@@ -9,7 +9,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ## 📝 Table of Contents
 - [Windows](#-windows)
 - [Linux](#-linux)
-- [Kubernetes & Cloud](#-kubernetes--cloud)
+- [Kubernetes & Cloud](#%EF%B8%8F-kubernetes--cloud)
 - [Containers](#-containers)
 - [Android & Mobile](#-android--mobile)
 - [Web](#web)
