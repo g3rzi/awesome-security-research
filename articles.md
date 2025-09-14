@@ -13,7 +13,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Containers](#-containers)
 - [Android & Mobile](#-android--mobile)
 - [Web](#web)
-- [Bug Bounty](#bug--bounty)
+- [Bug Bounty](#-bugbounty)
 - [Identity](#-identity)
 - [Supply Chain & Secrets](#-supplychain--secrets)
 - [Memory & Exploitation](#-memory--exploitation)
