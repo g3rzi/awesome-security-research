@@ -13,6 +13,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Containers](#-containers)
 - [Android & Mobile](#-android--mobile)
 - [Web](#web)
+- [Bug Bounty](#bugbounty)
 - [Identity](#-identity)
 - [Supply Chain & Secrets](#-supplychain--secrets)
 - [Memory & Exploitation](#-memory--exploitation)
@@ -74,7 +75,9 @@ This file contains the **full list** of articles — the main [README](README.md
 - 🔥 [ChatGPT Account Takeover - Wildcard Web Cache Deception](https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html) by [Harel](https://x.com/h4r3l), Feb 4, 2024
 - 🔥 [Web Cache Deception Attack](https://omergil.blogspot.com/2017/02/web-cache-deception-attack.html) by Omer Gil, Feburary 27, 2017
 
-  
+---
+## Bug Bounty
+- [$10,500 Bounty: A Grammarly Account Takeover Vector](https://infosecwriteups.com/10-500-bounty-a-grammarly-account-takeover-vector-974ef90fb00a) by [Monika sharma](https://medium.com/@commanak46)  
 ---
 
 ## 🌐 Identity 
