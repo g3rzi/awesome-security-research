@@ -29,6 +29,9 @@ A curated collection of vulnerability research articles and blog posts.
 - [dnSpyEx - .NET debugger and assembly editor.](https://github.com/dnSpyEx/dnSpy)  
 - [dnSpy](https://github.com/dnSpy/dnSpy) (original - DEPRECATED) - .NET debugger and assembly editor.  
 
+
+### Web  
+- [URL validation bypass cheat sheet](https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet) 
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
