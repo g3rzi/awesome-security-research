@@ -123,10 +123,12 @@ This file contains the **full list** of articles — the main [README](README.md
 
 
 ### OAuth  
+
 - [Common OAuth Vulnerabilities](https://blog.doyensec.com/2025/01/30/oauth-common-vulnerabilities.html) by Jose Catalan and Szymon Drosdzol, Jan 30, 2025  
-- 🔥 [Account hijacking using “dirty dancing” in sign-in OAuth-flows](https://labs.detectify.com/writeups/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/) by Frans Rosén
-- [OAuth Non-Happy Path to ATO](https://blog.voorivex.team/oauth-non-happy-path-to-ato) by Omid Rezaei
-- [Common OAuth Vulnerabilities](https://blog.doyensec.com/2025/01/30/oauth-common-vulnerabilities.html) by Jose Catalan and Szymon Drosdzol, Jan 30, 2025
+- [Understanding OAuth 2.0 and its Common Vulnerabilities](https://www.vaadata.com/blog/understanding-oauth-2-0-and-its-common-vulnerabilities/) by Vaadata, January 9, 2025   
+- 🔥 [Account hijacking using “dirty dancing” in sign-in OAuth-flows](https://labs.detectify.com/writeups/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/) by Frans Rosén  
+- [OAuth Non-Happy Path to ATO](https://blog.voorivex.team/oauth-non-happy-path-to-ato) by Omid Rezaei  
+- [Common OAuth Vulnerabilities](https://blog.doyensec.com/2025/01/30/oauth-common-vulnerabilities.html) by Jose Catalan and Szymon Drosdzol, Jan 30, 2025  
 - [The OAuth Oversight: When Configuration Errors Turn into Account Hijacks](https://medium.com/@ProwlSec/the-oauth-oversight-when-configuration-errors-turn-into-account-hijacks-5ed1f9c83d16) by ProwlSec, Nov 4, 2024
 - [Uber - Navigating the Complexities of redirect_uri: A Bug Bounty Journey](https://www.novasecurity.co.nz/uber-navigating-the-complexities-of-redirect-uri-a-bug-bounty-journey/) by Ron Chan, Jun 14, 2024  
 - 🔥🔥 [Writeup: Keycloak open redirect (CVE-2023-6927)](https://securityblog.omegapoint.se/en/writeup-keycloak-cve-2023-6927/) by Pontus Hanssen and Kasper Karlsson, January 11, 2024  
