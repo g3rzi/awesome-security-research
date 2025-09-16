@@ -20,14 +20,37 @@ A curated collection of vulnerability research articles and blog posts.
 ---  
 
 ## Tools  
+
+### Web  
+- [CyberChef](https://gchq.github.io/CyberChef/)
+- [Burp Suite](https://portswigger.net/burp)  
+
+### Network  
+- [Wireshark](https://www.wireshark.org/)  
+- [Fiddler](https://www.telerik.com/download/fiddler)  
+
+
 ### Windows  
 - [RPCMon - RPC Monitor tool based on Event Tracing for Windows](https://github.com/cyberark/RPCMon) by Eviatar Gerzi   
 - [PipeViewer - Shows detailed information about named pipes in Windows](https://github.com/cyberark/PipeViewer) by Eviatar Gerzi  
 - [Faxhell - A Proof-of-Concept bind shell using the Fax service and a DLL hijack based on Ualapi.dll](https://github.com/ionescu007/faxhell)
+- [pestudio](https://www.winitor.com/download) by Marc Ochsenmeier   
+- [CFF Explorer](https://ntcore.com/explorer-suite/)  
+- [PEiD](https://www.aldeid.com/wiki/PEiD)  
+- [HxD](https://mh-nexus.de/en/hxd/)
+- [Procmon](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)  
+- [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+- [System Informer (Process Hacker)](https://systeminformer.sourceforge.io/)   
 
-#### Reversing  
+#### Reversing    
+- [API monitor](http://www.rohitab.com/apimonitor) by rohitab
+- [x64dbg](https://x64dbg.com/)  
 - [dnSpyEx - .NET debugger and assembly editor.](https://github.com/dnSpyEx/dnSpy)  
-- [dnSpy](https://github.com/dnSpy/dnSpy) (original - DEPRECATED) - .NET debugger and assembly editor.  
+- [dnSpy](https://github.com/dnSpy/dnSpy) (original - DEPRECATED) - .NET debugger and assembly editor.
+- [IDA](https://hex-rays.com/ida-free)  
+- [radare](https://radare.org/n/) by pancake  
+- [WinDBG](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/)
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra)  
 
 
 ### Web  
