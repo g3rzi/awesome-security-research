@@ -133,9 +133,13 @@ This file contains the **full list** of articles — the main [README](README.md
 - [nOAuth: How Microsoft OAuth Misconfiguration Can Lead to Full Account Takeover](https://www.descope.com/blog/post/noauth) by Omer Cohen, June 20, 2023
 - [OAuth 2.0 Hunting Methodology](https://github.com/KathanP19/HowToHunt/blob/master/OAuth/OAuth%202.0%20Hunting%20Methodology.md) by KathanP19, Sep 18, 2022  
 - [OAuth 2.0 Vulnerabilities](https://0xn3va.gitbook.io/cheat-sheets/web-application/oauth-2.0-vulnerabilities) by 0xn3va
+- [Make Redirection Evil Again: URL Parser Issues in OAuth](https://i.blackhat.com/asia-19/Fri-March-29/bh-asia-Wang-Make-Redirection-Evil-Again-wp.pdf) by Chinese University, March 29, 2019
 - [[Google VRP] SSRF in Google Cloud Platform StackDriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/) by Ron Chan, Dec 19, 2019
 - 🔥 [[Uber] redirect_uri is difficult to do it right](https://ngailong.wordpress.com/2017/11/22/uber-redirect_uri-is-difficult-to-do-it-right/) by Ron Chan, Nov 22, 2017
-- [[Uber 8k Bug] Login CSRF + Open Redirect = Account Take Over](https://ngailong.wordpress.com/2017/08/07/uber-login-csrf-open-redirect-account-takeover/) by Ron Chan, August 7, 2017
+- [[Uber 8k Bug] Login CSRF + Open Redirect = Account Take Over](https://ngailong.wordpress.com/2017/08/07/uber-login-csrf-open-redirect-account-takeover/) by Ron Chan, August 7, 2017  
+- [Facebook's Moves - OAuth redirect_uri bypass](https://www.evil.blog/2016/06/facebooks-moves-oauth-redirecturi-bypass.html) by Paulos Yibelo, June, 2016
+- [Oauth 2.0 redirection bypass cheat sheet](https://nbsriharsha.blogspot.com/2016/04/oauth-20-redirection-bypass-cheat-sheet.html) by N B Sri Harsha, Apr, 2016
+- [CSRF Vulnerability in OAuth 2.0 Client Implementations](https://web.archive.org/web/20140806042247/http://stephensclafani.com/2011/04/06/oauth-2-0-csrf-vulnerability/) by Stephen Sclafani, Apr 6, 2011  
 
 ### by Aviad Carmel from Salt  
 - 🔥 [Traveling with OAuth — Account Takeover on Booking.com](https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com) - 🎥 [Talk](https://www.youtube.com/watch?v=BxiL4Vf_umI)
