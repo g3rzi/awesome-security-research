@@ -119,7 +119,8 @@ This file contains the **full list** of articles — the main [README](README.md
 - [$10,500 Bounty: A Grammarly Account Takeover Vector](https://infosecwriteups.com/10-500-bounty-a-grammarly-account-takeover-vector-974ef90fb00a) by [Monika sharma](https://medium.com/@commanak46)  
 ---
 
-## 🌐 Identity 
+## 🌐 Identity  
+- [One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/) by Dirk-jan Mollema, September 17, 2025    
 - [Forging Passkeys: Exploring the FIDO2 / WebAuthn Attack Surface](https://nullpt.rs/forging-passkeys) by [vmfunc](https://x.com/vmfunc), June 20, 2025
 - [Abusing FIDO2 passkeys to take over Global Administrators in Entra ID](https://cybersecurity.bureauveritas.com/services/information-technology/pentesting-services/what-can-be-pentested/cloud-pentesting/abusing-fido2-passkeys) by Max Rozendaal
 
