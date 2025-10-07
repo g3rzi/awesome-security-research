@@ -56,8 +56,9 @@ A curated collection of vulnerability research articles and blog posts.
 - [KubiScan](https://github.com/cyberark/KubiScan) - Scan Kubernetes cluster for risky permissions by Eviatar Gerzi  
 - [kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet by Eviatar Gerzi  
 - [kubesploit](https://github.com/cyberark/kubesploit) - Offensive tool by Eviatar Gerzi
-- [kubestriker](https://github.com/vchinnipilli/kubestriker) - Security Auditing tool by vasant chinnipilli
-  * [From awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security):  
+- [kubestriker](https://github.com/vchinnipilli/kubestriker) - Security Auditing tool by vasant chinnipilli  
+  [From awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security):
+  
 - [aad-pod-identity](https://github.com/Azure/aad-pod-identity/) -  Assign Azure AD idenitites to pods in Kubernetes, in order to access Azure resources  
 - [audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs  
 - [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit  
