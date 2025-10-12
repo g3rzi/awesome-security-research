@@ -19,6 +19,14 @@ A curated collection of vulnerability research articles and blog posts.
 
 ---  
 
+## Talks & Videos  
+- 🔥 [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax), August 28 2018  
+- 🔥 [DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering](https://www.youtube.com/watch?v=HlUe0TUHOIc) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax), April 20, 2016   
+- [REcon 2015 - The movfuscator (Christopher Domas)](https://www.youtube.com/watch?v=2VF_wPkiBJY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax), Feb 17, 2016
+- 
+### Containers  
+
+---  
 ## Tools  
 
 ### Web  
