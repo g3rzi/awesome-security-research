@@ -22,25 +22,47 @@ A curated collection of vulnerability research articles and blog posts.
 ## Tools  
 
 ### Web  
-- [CyberChef](https://gchq.github.io/CyberChef/)
-- [Burp Suite](https://portswigger.net/burp)  
+- [CyberChef](https://gchq.github.io/CyberChef/)  
+- [Burp Suite](https://portswigger.net/burp) (free, the pro version is 💵)  
+- [Caido](https://caido.io/compare/burpsuite) - Modern alternative to Burp Suite  
+- [OWASP ZAP](https://www.zaproxy.org/) - Webapp scanner  
+
 
 ### Network  
-- [Wireshark](https://www.wireshark.org/)  
-- [Fiddler](https://www.telerik.com/download/fiddler)  
+- [Wireshark](https://www.wireshark.org/)   
+- [Fiddler](https://www.telerik.com/download/fiddler)   
+- [nmap](https://nmap.org/) - Network mapper  
+- [bettercap](https://github.com/bettercap/bettercap) by [Simone Margaritelli (evilsocket)](https://github.com/evilsocket)  
 
 
 ### Windows  
-- [RPCMon - RPC Monitor tool based on Event Tracing for Windows](https://github.com/cyberark/RPCMon) by Eviatar Gerzi   
-- [PipeViewer - Shows detailed information about named pipes in Windows](https://github.com/cyberark/PipeViewer) by Eviatar Gerzi  
+
 - [Faxhell - A Proof-of-Concept bind shell using the Fax service and a DLL hijack based on Ualapi.dll](https://github.com/ionescu007/faxhell)
 - [pestudio](https://www.winitor.com/download) by Marc Ochsenmeier   
 - [CFF Explorer](https://ntcore.com/explorer-suite/)  
 - [PEiD](https://www.aldeid.com/wiki/PEiD)  
 - [HxD](https://mh-nexus.de/en/hxd/)
 - [Procmon](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)  
-- [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)
-- [System Informer (Process Hacker)](https://systeminformer.sourceforge.io/)   
+- [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)  
+- [System Informer (Process Hacker)](https://systeminformer.sourceforge.io/)  
+- [TCPView](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview)  
+- [mimikatz](https://github.com/gentilkiwi/mimikatz) - by [Benjamin DELPY](https://github.com/gentilkiwi)
+- [ItWasAllADream](https://github.com/byt3bl33d3r/ItWasAllADream) - A PrintNightmare (CVE-2021-34527) Python Scanner by [byt3bl33d3r](https://github.com/byt3bl33d3r)  
+
+#### PE  
+- [PE-sieve](https://github.com/hasherezade/pe-sieve) - Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches) by hasherezade  
+- [PE-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI by hasherezade  
+
+#### Namedpipes  
+- [PipeViewer - Shows detailed information about named pipes in Windows](https://github.com/cyberark/PipeViewer) by Eviatar Gerzi  
+- [NamedPipeMaster](https://github.com/zeze-zeze/NamedPipeMaster) - Analyze and monitor in named pipes, by zeze-zeze  
+- [IO Ninja](https://ioninja.com/) 💵  
+
+#### RPC  
+- [RPCMon - RPC Monitor tool based on Event Tracing for Windows](https://github.com/cyberark/RPCMon) by Eviatar Gerzi   
+- [RpcInvestigator](https://github.com/trailofbits/RpcInvestigator) - Exploring RPC interfaces on Windows by trailofbits ([blog](https://blog.trailofbits.com/2023/01/17/rpc-investigator-microsoft-windows-remote-procedure-call/))  
+- [rpcfirewall](https://github.com/zeronetworks/rpcfirewall) - Hooking RCP calls by zeronetworks ([Sagi Dulce](https://github.com/sagiesec))  
+
 
 #### Reversing    
 - [API monitor](http://www.rohitab.com/apimonitor) by rohitab
@@ -53,13 +75,11 @@ A curated collection of vulnerability research articles and blog posts.
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra)  
 
 ### Kubernetes  
-- [KubiScan](https://github.com/cyberark/KubiScan) - Scan Kubernetes cluster for risky permissions by Eviatar Gerzi  
-- [kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet by Eviatar Gerzi  
-- [kubesploit](https://github.com/cyberark/kubesploit) - Offensive tool by Eviatar Gerzi
-- [kubestriker](https://github.com/vchinnipilli/kubestriker) - Security Auditing tool by vasant chinnipilli  
-  [From awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security):
-  
-- [aad-pod-identity](https://github.com/Azure/aad-pod-identity/) -  Assign Azure AD idenitites to pods in Kubernetes, in order to access Azure resources  
+- [KubiScan](https://github.com/cyberark/KubiScan) - Scan Kubernetes cluster for risky permissions by Eviatar Gerzi    
+- [kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet by Eviatar Gerzi    
+- [kubesploit](https://github.com/cyberark/kubesploit) - Offensive tool by Eviatar Gerzi  
+- [kubestriker](https://github.com/vchinnipilli/kubestriker) - Security Auditing tool by vasant chinnipilli
+- [aad-pod-identity](https://github.com/Azure/aad-pod-identity/) - Assign Azure AD idenitites to pods in Kubernetes, in order to access Azure resources  
 - [audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs  
 - [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit  
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless  
@@ -95,9 +115,10 @@ A curated collection of vulnerability research articles and blog posts.
 - [trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security (Vulnerabilities,IaC MisConfig,Exposed Secrets,RBAC Assessment,Compliance and more) toolkit for kubernetes  
 - [kubernetes-rbac-audit](https://github.com/cyberark/kubernetes-rbac-audit) - Tool for auditing RBACs in Kubernetes  
 - [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Tool to get External Secrets from Hashicorp Vault and AWS SSM  
-- [vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator) - An operator to create Kubernetes secrets from Vault for a secure GitOps based workflow  
+- [vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator) - An operator to create Kubernetes secrets from Vault for a secure GitOps based workflow   
 
-- 
+*Most of the tools are taken from [awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security)  
+
 ### Web  
 - [URL validation bypass cheat sheet](https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet) 
 ---
