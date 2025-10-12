@@ -24,7 +24,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ## 🪟 Windows   
 
-- 🔥 [Abusing Arbitrary File Deletes to Escalate Privilege and Other Great Tricks](https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks)  
+- [Abusing Arbitrary File Deletes to Escalate Privilege and Other Great Tricks](https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks) (🔥)    
 - [Pentester’S Windows NTFS Tricks Collection](https://sec-consult.com/blog/detail/pentesters-windows-ntfs-tricks-collection/)
 - [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html) by [Carsten Sandker](https://x.com/0xcsandker)  
 - [Offensive Windows IPC Internals 2: RPC](https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html#the-series) by [Carsten Sandker](https://x.com/0xcsandker)
@@ -33,7 +33,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ### Privilege Escalation  
 - [From NETWORK SERVICE to SYSTEM](https://decoder.cloud/2020/05/04/from-network-service-to-system/) by [decoder](https://x.com/decoder_it), May 4, 2020
-- 🔥🔥 [Faxing Your Way to SYSTEM — Part Two](https://windows-internals.com/faxing-your-way-to-system/) by [Yarden Shafir](https://x.com/yarden_shafir) & [Alex Ionescu](https://x.com/aionescu), Apr 30, 2020  - [Faxhell tool](https://github.com/ionescu007/faxhell)  
+- [Faxing Your Way to SYSTEM — Part Two](https://windows-internals.com/faxing-your-way-to-system/) (🔥🔥) by [Yarden Shafir](https://x.com/yarden_shafir) & [Alex Ionescu](https://x.com/aionescu), Apr 30, 2020  - [Faxhell tool](https://github.com/ionescu007/faxhell)  
 - [Windows DLL Hijacking (Hopefully) Clarified](https://itm4n.github.io/windows-dll-hijacking-clarified/) by [Clément Labro (itm4n)](https://infosec.exchange/@itm4n), Apr 24, 2020  
 - [CVE-2020-0729: Remote Code Execution Through .LNK Files](https://www.zerodayinitiative.com/blog/2020/3/25/cve-2020-0729-remote-code-execution-through-lnk-files) by Trend Micro Research Team, March 26, 2020  
 - [From dropbox(updater) to NT AUTHORITY\SYSTEM](https://decoder.cloud/2019/12/18/from-dropboxupdater-to-nt-authoritysystem/) by [decoder](https://x.com/decoder_it), December 18, 2019  
@@ -109,12 +109,12 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Account Takeover via Password Reset without user interactions](https://gitlab.com/gitlab-org/gitlab/-/issues/436084)
 - [Shockwave Identifies Web Cache Deception and Account Takeover Vulnerability affecting OpenAI's ChatGPT](https://www.shockwave.cloud/blog/shockwave-works-with-openai-to-fix-critical-chatgpt-vulnerability) by Gal Nagli, July 15, 2024
 - [CVE-2024-25153: Remote Code Execution in Fortra FileCatalyst](https://www.lrqa.com/en/cyber-labs/cve-2024-25153-remote-code-execution-in-fortra-filecatalyst/) by Tom Wedgbury, March 13, 2024  
-- 🔥 [ChatGPT Account Takeover - Wildcard Web Cache Deception](https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html) by [Harel](https://x.com/h4r3l), Feb 4, 2024
+- [ChatGPT Account Takeover - Wildcard Web Cache Deception](https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html) (🔥) by [Harel](https://x.com/h4r3l), Feb 4, 2024
 - [Sandwich Attack UUIDv1](https://x.com/0xLupin/status/1745805050562105739) by [0xLupin](https://x.com/0xLupin), Jan 12, 2024
 - [Old but GOLD Dot Dot Slash to Get the Flag — Uber Microservice](https://ngailong.wordpress.com/2019/04/07/old-but-gold-dot-dot-slash-to-get-the-flag-uber-microservice/) by Ron Chan, April 7, 2019  
 - [Tutorial One: Open Url Redirects](https://web.archive.org/web/20190523023839/https://zseano.com/tutorials/1.html) by Zseano, Sep 14, 2017   
 - [Tutorials by zseano](https://web.archive.org/web/20190520052806/https://zseano.com/index.html) by Zseano, Sep 14, 2017
-- 🔥 [Web Cache Deception Attack](https://omergil.blogspot.com/2017/02/web-cache-deception-attack.html) by Omer Gil, Feburary 27, 2017
+- [Web Cache Deception Attack](https://omergil.blogspot.com/2017/02/web-cache-deception-attack.html) (🔥) by Omer Gil, Feburary 27, 2017
 ---
 ## Bug Bounty
 - [$10,500 Bounty: A Grammarly Account Takeover Vector](https://infosecwriteups.com/10-500-bounty-a-grammarly-account-takeover-vector-974ef90fb00a) by [Monika sharma](https://medium.com/@commanak46)  
@@ -132,26 +132,26 @@ This file contains the **full list** of articles — the main [README](README.md
 
 - [Common OAuth Vulnerabilities](https://blog.doyensec.com/2025/01/30/oauth-common-vulnerabilities.html) by Jose Catalan and Szymon Drosdzol, Jan 30, 2025  
 - [Understanding OAuth 2.0 and its Common Vulnerabilities](https://www.vaadata.com/blog/understanding-oauth-2-0-and-its-common-vulnerabilities/) by Vaadata, January 9, 2025   
-- 🔥 [Account hijacking using “dirty dancing” in sign-in OAuth-flows](https://labs.detectify.com/writeups/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/) by Frans Rosén  
+- [Account hijacking using “dirty dancing” in sign-in OAuth-flows](https://labs.detectify.com/writeups/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/) (🔥) by Frans Rosén  
 - [OAuth Non-Happy Path to ATO](https://blog.voorivex.team/oauth-non-happy-path-to-ato) by Omid Rezaei  
 - [Common OAuth Vulnerabilities](https://blog.doyensec.com/2025/01/30/oauth-common-vulnerabilities.html) by Jose Catalan and Szymon Drosdzol, Jan 30, 2025  
 - [The OAuth Oversight: When Configuration Errors Turn into Account Hijacks](https://medium.com/@ProwlSec/the-oauth-oversight-when-configuration-errors-turn-into-account-hijacks-5ed1f9c83d16) by ProwlSec, Nov 4, 2024
 - [Uber - Navigating the Complexities of redirect_uri: A Bug Bounty Journey](https://www.novasecurity.co.nz/uber-navigating-the-complexities-of-redirect-uri-a-bug-bounty-journey/) by Ron Chan, Jun 14, 2024  
-- 🔥🔥 [Writeup: Keycloak open redirect (CVE-2023-6927)](https://securityblog.omegapoint.se/en/writeup-keycloak-cve-2023-6927/) by Pontus Hanssen and Kasper Karlsson, January 11, 2024  
-- 🔥[Google OAuth is Broken (Sort Of)](https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of) by Dylan Ayrey, December 15, 2023
+- [Writeup: Keycloak open redirect (CVE-2023-6927)](https://securityblog.omegapoint.se/en/writeup-keycloak-cve-2023-6927/) (🔥🔥) by Pontus Hanssen and Kasper Karlsson, January 11, 2024  
+- [Google OAuth is Broken (Sort Of)](https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of) (🔥) by Dylan Ayrey, December 15, 2023
 - [nOAuth: How Microsoft OAuth Misconfiguration Can Lead to Full Account Takeover](https://www.descope.com/blog/post/noauth) by Omer Cohen, June 20, 2023
 - [OAuth 2.0 Hunting Methodology](https://github.com/KathanP19/HowToHunt/blob/master/OAuth/OAuth%202.0%20Hunting%20Methodology.md) by KathanP19, Sep 18, 2022  
 - [OAuth 2.0 Vulnerabilities](https://0xn3va.gitbook.io/cheat-sheets/web-application/oauth-2.0-vulnerabilities) by 0xn3va
 - [Make Redirection Evil Again: URL Parser Issues in OAuth](https://i.blackhat.com/asia-19/Fri-March-29/bh-asia-Wang-Make-Redirection-Evil-Again-wp.pdf) by Chinese University, March 29, 2019
 - [[Google VRP] SSRF in Google Cloud Platform StackDriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/) by Ron Chan, Dec 19, 2019
-- 🔥 [[Uber] redirect_uri is difficult to do it right](https://ngailong.wordpress.com/2017/11/22/uber-redirect_uri-is-difficult-to-do-it-right/) by Ron Chan, Nov 22, 2017
+- [[Uber] redirect_uri is difficult to do it right](https://ngailong.wordpress.com/2017/11/22/uber-redirect_uri-is-difficult-to-do-it-right/) (🔥) by Ron Chan, Nov 22, 2017
 - [[Uber 8k Bug] Login CSRF + Open Redirect = Account Take Over](https://ngailong.wordpress.com/2017/08/07/uber-login-csrf-open-redirect-account-takeover/) by Ron Chan, August 7, 2017  
 - [Facebook's Moves - OAuth redirect_uri bypass](https://www.evil.blog/2016/06/facebooks-moves-oauth-redirecturi-bypass.html) by Paulos Yibelo, June, 2016
 - [Oauth 2.0 redirection bypass cheat sheet](https://nbsriharsha.blogspot.com/2016/04/oauth-20-redirection-bypass-cheat-sheet.html) by N B Sri Harsha, Apr, 2016
 - [CSRF Vulnerability in OAuth 2.0 Client Implementations](https://web.archive.org/web/20140806042247/http://stephensclafani.com/2011/04/06/oauth-2-0-csrf-vulnerability/) by Stephen Sclafani, Apr 6, 2011  
 
 ### by Aviad Carmel from Salt  
-- 🔥 [Traveling with OAuth — Account Takeover on Booking.com](https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com) - 🎥 [Talk](https://www.youtube.com/watch?v=BxiL4Vf_umI)
+- [Traveling with OAuth — Account Takeover on Booking.com](https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com) (🔥) - 🎥 [Talk](https://www.youtube.com/watch?v=BxiL4Vf_umI)
 - [Salt Labs exposes a new vulnerability in popular OAuth framework, used in hundreds of online services](https://salt.security/blog/a-new-oauth-vulnerability-that-may-impact-hundreds-of-online-services)  
 - [Oh-Auth — Abusing OAuth to take over millions of accounts](https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts)  
 - [Security Flaws within ChatGPT Ecosystem Allowed Access to Accounts On Third-Party Websites and Sensitive Data](https://salt.security/blog/security-flaws-within-chatgpt-extensions-allowed-access-to-accounts-on-third-party-websites-and-sensitive-data)  
