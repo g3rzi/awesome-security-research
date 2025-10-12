@@ -20,6 +20,8 @@ A curated collection of vulnerability research articles and blog posts.
 ---  
 
 ## Talks & Videos  
+- [Splitting the Email Atom: Exploiting Parsers to Bypass Access Controls](https://www.youtube.com/watch?v=Uky45wwqsO4) (🔥🔥)  by Gareth Heyes, March 3, 2025  
+- [Smashing the State Machine: The True Potential of Web Race Conditions](https://www.youtube.com/watch?v=VzqG_-a8_Jo) (🔥🔥) by James Kettle, Jan 2, 2024  
 - [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax) (🔥), August 28 2018  
 - [DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering](https://www.youtube.com/watch?v=HlUe0TUHOIc) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax) (🔥), April 20, 2016   
 - [REcon 2015 - The movfuscator (Christopher Domas)](https://www.youtube.com/watch?v=2VF_wPkiBJY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax), Feb 17, 2016
