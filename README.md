@@ -20,17 +20,19 @@ A curated collection of vulnerability research articles and blog posts.
 ---  
 
 ## Talks & Videos  
-- [Splitting the Email Atom: Exploiting Parsers to Bypass Access Controls](https://www.youtube.com/watch?v=Uky45wwqsO4) (🔥🔥)  by Gareth Heyes, March 3, 2025  
+- [Splitting the Email Atom: Exploiting Parsers to Bypass Access Controls](https://www.youtube.com/watch?v=Uky45wwqsO4) (🔥🔥)  by Gareth Heyes, March 3, 2025   
 - [Smashing the State Machine: The True Potential of Web Race Conditions](https://www.youtube.com/watch?v=VzqG_-a8_Jo) (🔥🔥) by James Kettle, Jan 2, 2024
-
+- [BlueHat 2023: Houdini of the Terminal with David Leadbeater](https://www.youtube.com/watch?v=iIHw0KWgzAs) (🔥) by David Leadbeater, March 2, 2023  
+- [DEF CON 30 - James Kettle - Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling](https://www.youtube.com/watch?v=B8KW8KPVcUo) (🔥🔥) by James Kettle, October 20, 2022  
 - [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax) (🔥), August 28 2018  
 - [DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering](https://www.youtube.com/watch?v=HlUe0TUHOIc) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax) (🔥), April 20, 2016   
-- [REcon 2015 - The movfuscator (Christopher Domas)](https://www.youtube.com/watch?v=2VF_wPkiBJY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax), Feb 17, 2016
+- [REcon 2015 - The movfuscator (Christopher Domas)](https://www.youtube.com/watch?v=2VF_wPkiBJY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax), Feb 17, 2016  
 
 ### Containers  
 - [Escaping Virtualized Containers](https://www.youtube.com/watch?v=0hrv0qyOEd0) (🔥🔥) by Yuval Avrahami, May 14, 2021  
 - [A Compendium of Container Escapes](https://www.youtube.com/watch?v=BQlqita2D2s) by Capsule8, Jan 15, 2020
-
+- [#HITBLockdown D2 - Prisoner Number 6 - Nimrod Stoler](https://www.youtube.com/watch?v=aMBq0LZo_2I) (🔥) by Nimrod Stoler, 2020  
+- [CG - Prisoner Number Six - Nimrod Stoler & Lavi Lazarovitz](https://www.youtube.com/watch?v=sPN5bRGoZlI) (🔥) by Nimrod Stoler, August 7, 2019  
 
 ---  
 ## Tools  
