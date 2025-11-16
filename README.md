@@ -1,7 +1,7 @@
 
 # awesome-security-research [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
-😎 A curated list of the awesome resources about the security research.
-
+😎 A curated list of awesome resources for **security research**:  
+vulnerability discovery, exploit development, reversing, containers, Kubernetes, and more.  
 
 ---
 
@@ -12,10 +12,25 @@
 - [CTFs](#ctfs)
 
 ---
+## Legend
 
+- 🔥 – Highly recommended / must-watch  
+- 💵 – Paid or has a paid tier  
+---
+
+## 🌱 How to Use This List
+
+If you're new to security research:
+
+1. Start with a few talks from **Talks & Videos** (marked 🔥).
+2. Pick a domain (Web, Windows, Kubernetes, etc.) and read through the matching section in **Articles.md**.
+3. Choose 1–2 tools from **Tools** in that domain and actually use them on a test target or lab.
+4. Repeat in cycles: Watch → Read → Experiment → Take notes.
+
+---
 ## Articles 
 A curated collection of vulnerability research articles and blog posts.  
-➡️ See the full list here: [**Articles.md**](articles.md)
+➡️ See the full list here: [**articles.md**](articles.md)
 
 ---  
 
@@ -45,7 +60,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [Burp Suite](https://portswigger.net/burp) (free, the pro version is 💵)  
 - [Caido](https://caido.io/compare/burpsuite) - Modern alternative to Burp Suite  
 - [OWASP ZAP](https://www.zaproxy.org/) - Webapp scanner  
-
+- [URL validation bypass cheat sheet](https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet) 
 
 ### Network  
 - [Wireshark](https://www.wireshark.org/)   
@@ -98,7 +113,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [kubeletctl](https://github.com/cyberark/kubeletctl) - A client for kubelet by Eviatar Gerzi    
 - [kubesploit](https://github.com/cyberark/kubesploit) - Offensive tool by Eviatar Gerzi  
 - [kubestriker](https://github.com/vchinnipilli/kubestriker) - Security Auditing tool by vasant chinnipilli
-- [aad-pod-identity](https://github.com/Azure/aad-pod-identity/) - Assign Azure AD idenitites to pods in Kubernetes, in order to access Azure resources  
+- [aad-pod-identity](https://github.com/Azure/aad-pod-identity/) - Assign Azure AD identities to pods in Kubernetes, in order to access Azure resources  
 - [audit2rbac](https://github.com/liggitt/audit2rbac) - Autogenerate RBAC policies based on Kubernetes audit logs  
 - [CDK](https://github.com/cdk-team/CDK) - Zero Dependency Container Penetration Toolkit  
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless  
@@ -107,7 +122,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [KBOM](https://github.com/ksoclabs/kbom) - Kubernetes Bill of Materials Toolkit 
 - [kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment and context discovery tool for penetration testing  
 - [kiam](https://github.com/uswitch/kiam) - Integrate AWS IAM with Kubernetes
-- [kube-bench](https://github.com/aquasecurity/kube-bench) - Check whether Kubernetes is deployed according to security best practics  
+- [kube-bench](https://github.com/aquasecurity/kube-bench) - Check whether Kubernetes is deployed according to security best practices  
 - [kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters  
 - [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) - Help building an adaptive and fine-grained pod security policy  
 - [kube-scan](https://github.com/octarinesec/kube-scan) - k8s cluster risk assessment tool  
@@ -131,15 +146,53 @@ A curated collection of vulnerability research articles and blog posts.
 - [steampipe-kubernetes](https://github.com/turbot/steampipe-plugin-kubernetes) - Use SQL to query your Kubernetes resources  
 - [steampipe-kubernetes-compliance](https://github.com/turbot/steampipe-mod-kubernetes-compliance) - Kubernetes compliance scanning tool for CIS, NSA & CISA Cybersecurity technical report for Kubernetes hardening.  
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI  
-- [trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security (Vulnerabilities,IaC MisConfig,Exposed Secrets,RBAC Assessment,Compliance and more) toolkit for kubernetes  
+- [trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security (Vulnerabilities, IaC Misconfig, exposed secrets, RBAC assessment, compliance, and more) toolkit for kubernetes  
 - [kubernetes-rbac-audit](https://github.com/cyberark/kubernetes-rbac-audit) - Tool for auditing RBACs in Kubernetes  
 - [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) - Tool to get External Secrets from Hashicorp Vault and AWS SSM  
 - [vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator) - An operator to create Kubernetes secrets from Vault for a secure GitOps based workflow   
 
 *Most of the tools are taken from [awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security)  
 
-### Web  
-- [URL validation bypass cheat sheet](https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet) 
+---
+
+
+## CTFs  
+A (very small) selection of CTFs and platforms that are especially good
+for learning real-world vulnerability research:
+
+- [pwnable.kr](https://pwnable.kr/) – Binary exploitation challenges
+- [pwn.college](https://pwn.college/) – Structured teaching for pwn & exploitation
+- [Hack The Box](https://www.hackthebox.com/) – Labs & boxes (mixed difficulty)
+- [Root Me](https://www.root-me.org/) – Web, crypto, pwn, reversing, misc
+- [exploit.education](https://exploit.education/) - Labs for Linux PWNs and Binary exploitation  
+---
+
+## Contributing
+
+Contributions are welcome! 🎉
+
+Before opening a PR:
+
+- Make sure the resource is **high quality** and focused on **security research**  
+  (vuln discovery, root cause analysis, exploitation, etc. – not generic “how to hack”).
+- Place it in the right section and keep the list **alphabetically sorted**.
+- Prefer **original research** and deep-dive content over shallow summaries.
+
+If you're unsure, open an issue and we can discuss it.  
+
+--- 
+## License
+
+This list is licensed under **CC0 1.0 Universal**.
+
+To the extent possible under law, I waive all copyright and related rights to
+the content of this repository. See the [LICENSE](LICENSE) file for details.
+---
+
+## Disclaimer
+
+All tools and resources are listed for **educational and defensive purposes only**.
+Use them responsibly and follow the laws in your jurisdiction.  
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
