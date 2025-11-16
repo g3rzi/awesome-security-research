@@ -183,16 +183,18 @@ If you're unsure, open an issue and we can discuss it.
 --- 
 ## License
 
-This list is licensed under **CC0 1.0 Universal**.
+This list is licensed under **CC0 1.0 Universal**.  
 
-To the extent possible under law, I waive all copyright and related rights to
-the content of this repository. See the [LICENSE](LICENSE) file for details.
+To the extent possible under law, I waive all copyright and related rights to  
+the content of this repository. See the [LICENSE](LICENSE) file for details.  
+
 ---
 
 ## Disclaimer
 
-All tools and resources are listed for **educational and defensive purposes only**.
+All tools and resources are listed for **educational and defensive purposes only**.  
 Use them responsibly and follow the laws in your jurisdiction.  
+
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
