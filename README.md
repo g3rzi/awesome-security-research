@@ -35,10 +35,22 @@ A curated collection of vulnerability research articles and blog posts.
 ---  
 
 ## Talks & Videos  
-- [Splitting the Email Atom: Exploiting Parsers to Bypass Access Controls](https://www.youtube.com/watch?v=Uky45wwqsO4) (🔥🔥)  by Gareth Heyes, March 3, 2025   
+- [DEF CON 33 - HTTP 1 1 Must Die! The Desync Endgame - James 'albinowax' Kettle](https://www.youtube.com/watch?v=PUCyExOr3sE) (🔥) by James Kettle, Oct 11 2025  
+- [Splitting the Email Atom: Exploiting Parsers to Bypass Access Controls](https://www.youtube.com/watch?v=Uky45wwqsO4) (🔥🔥)  by Gareth Heyes, March 3, 2025
+- [BingBang: Hacking Bing.com (and much more) with Azure Active Directory ](https://www.youtube.com/watch?v=l4hA2eZuMF8) (🔥🔥) by Hillai Ben-Sasson (Wiz), Feb 20, 2024
+- [mTLS: When Certificate Authentication is Done Wrong](https://www.youtube.com/watch?v=3zEZ6d9PVZ8) by Michael Stepankin, Feb 20, 2024   
+- [Weaponizing Plain Text: ANSI Escape Sequences as a Forensic Nightmare](https://www.youtube.com/watch?v=opW_Q7jvSbc) by STOK, Jan 3, 2024  
 - [Smashing the State Machine: The True Potential of Web Race Conditions](https://www.youtube.com/watch?v=VzqG_-a8_Jo) (🔥🔥) by James Kettle, Jan 2, 2024
-- [BlueHat 2023: Houdini of the Terminal with David Leadbeater](https://www.youtube.com/watch?v=iIHw0KWgzAs) (🔥) by David Leadbeater, March 2, 2023  
+- [BlueHat 2023: Houdini of the Terminal with David Leadbeater](https://www.youtube.com/watch?v=iIHw0KWgzAs) (🔥) by David Leadbeater, March 2, 2023
+- [Defender-Pretender: When Windows Defender Updates Become a Security Risk](https://www.youtube.com/watch?v=3hYjdWNhhvk) by Omer Attias and Tomer Bar, Feb 2, 2024
+- [Backdooring and Hijacking Azure AD Accounts by Abusing External Identities](https://www.youtube.com/watch?v=uKDS2t9_KsA) by Dirk-jan Mollema, Nov 17, 2022
+- [Pwning Cloud Vendors with Untraditional PostgreSQL Vulnerabilities](https://www.youtube.com/watch?v=X6CiUD3EcfQ) by Shir Tamari  & Nir Ohfeld, Nov 17, 2022
+- [The Journey of Hunting In-the-Wild Windows LPE 0day](https://www.youtube.com/watch?v=voDpk7nQAyw) by Quan Jin, Nov 17, 2022  
+- [Trace Me if You Can: Bypassing Linux Syscall Tracing](https://www.youtube.com/watch?v=cVf7Ww67j68) by Rex Guo & Junyuan Zeng, Nov 17, 2022
+
 - [DEF CON 30 - James Kettle - Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling](https://www.youtube.com/watch?v=B8KW8KPVcUo) (🔥🔥) by James Kettle, October 20, 2022  
+- [CG - Trust Me, I'm a Robot: Can we trust RPA with our most guarded secrets?](https://www.youtube.com/watch?v=EbsdV38P0wI) (🔥🔥) by Nimrod Stoler and Nethanel Coppenhagen, Sept 4 2022
+- [#HITBLockdown D1 - 60 CVEs In 60 Days - Eran Shimony](https://www.youtube.com/watch?v=HFO8GCGQcUc) (🔥) by Eran Shimony, May 21, 2020  
 - [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax) (🔥), August 28 2018  
 - [DEF CON 23 - Chris Domas - Repsych: Psychological Warfare in Reverse Engineering](https://www.youtube.com/watch?v=HlUe0TUHOIc) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax) (🔥), April 20, 2016   
 - [REcon 2015 - The movfuscator (Christopher Domas)](https://www.youtube.com/watch?v=2VF_wPkiBJY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax), Feb 17, 2016  
@@ -47,6 +59,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [Kubernetes Privilege Escalation: Container Escape == Cluster Admin?](https://www.youtube.com/watch?v=oc1tq_r6VNM) by Yuval Avrahami and Shaul Ben Hai, November 28, 2022  
 
 ### Containers  
+- [The COW (Container On Windows) Who Escaped the Silo](https://www.youtube.com/watch?v=e6oegr3cl4U) by Eran Segal, Nov 17, 2022  
 - [Escaping Virtualized Containers](https://www.youtube.com/watch?v=0hrv0qyOEd0) (🔥🔥) by Yuval Avrahami, May 14, 2021  
 - [A Compendium of Container Escapes](https://www.youtube.com/watch?v=BQlqita2D2s) by Capsule8, Jan 15, 2020
 - [#HITBLockdown D2 - Prisoner Number 6 - Nimrod Stoler](https://www.youtube.com/watch?v=aMBq0LZo_2I) (🔥) by Nimrod Stoler, 2020  
