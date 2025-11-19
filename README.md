@@ -68,7 +68,8 @@ A curated collection of vulnerability research articles and blog posts.
 - [nmap](https://nmap.org/) - Network mapper  
 - [bettercap](https://github.com/bettercap/bettercap) by [Simone Margaritelli (evilsocket)](https://github.com/evilsocket)  
 
-
+### Mobile  
+- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) (🔥) 
 ### Windows  
 
 - [Faxhell - A Proof-of-Concept bind shell using the Fax service and a DLL hijack based on Ualapi.dll](https://github.com/ionescu007/faxhell)
