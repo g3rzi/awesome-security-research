@@ -46,8 +46,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [Backdooring and Hijacking Azure AD Accounts by Abusing External Identities](https://www.youtube.com/watch?v=uKDS2t9_KsA) by Dirk-jan Mollema, Nov 17, 2022
 - [Pwning Cloud Vendors with Untraditional PostgreSQL Vulnerabilities](https://www.youtube.com/watch?v=X6CiUD3EcfQ) by Shir Tamari  & Nir Ohfeld, Nov 17, 2022
 - [The Journey of Hunting In-the-Wild Windows LPE 0day](https://www.youtube.com/watch?v=voDpk7nQAyw) by Quan Jin, Nov 17, 2022  
-- [Trace Me if You Can: Bypassing Linux Syscall Tracing](https://www.youtube.com/watch?v=cVf7Ww67j68) by Rex Guo & Junyuan Zeng, Nov 17, 2022
-
+- [Trace Me if You Can: Bypassing Linux Syscall Tracing](https://www.youtube.com/watch?v=cVf7Ww67j68) by Rex Guo & Junyuan Zeng, Nov 17, 2022  
 - [DEF CON 30 - James Kettle - Browser-Powered Desync Attacks: A New Frontier in HTTP Request Smuggling](https://www.youtube.com/watch?v=B8KW8KPVcUo) (🔥🔥) by James Kettle, October 20, 2022  
 - [CG - Trust Me, I'm a Robot: Can we trust RPA with our most guarded secrets?](https://www.youtube.com/watch?v=EbsdV38P0wI) (🔥🔥) by Nimrod Stoler and Nethanel Coppenhagen, Sept 4 2022
 - [#HITBLockdown D1 - 60 CVEs In 60 Days - Eran Shimony](https://www.youtube.com/watch?v=HFO8GCGQcUc) (🔥) by Eran Shimony, May 21, 2020  
