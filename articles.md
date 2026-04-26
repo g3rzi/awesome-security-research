@@ -54,6 +54,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 
 ### Privilege Escalation  
+- [PhantomRPC: A new privilege escalation technique in Windows RPC](https://securelist.com/phantomrpc-rpc-vulnerability/119428/) by Haidar Kabibo, Apr 26, 2026  
 - [CVE-2026-20817 - Windows Error Reporting Service EoP](https://itm4n.github.io/cve-2026-20817-wersvc-eop/) by Clément Labro(itm4n), March 22, 2026  
 - [RIP RegPwn (CVE-2026-24291)](https://www.mdsec.co.uk/2026/03/rip-regpwn/) by Filip Dragovic (MDSec), March 13, 2026
 - [Total Recall – Retracing Your Steps Back to NT AUTHORITY\SYSTEM](https://www.mdsec.co.uk/2026/02/total-recall-retracing-your-steps-back-to-nt-authoritysystem/) by Filip Dragovic (MDSec), Feb 27, 2026  
