@@ -95,6 +95,8 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## ☁️ Kubernetes & Cloud   
+- [Kicking the Bucket: Critical RCE and Cross-Tenant Exploits in 3 Different GCP Products](https://focalsecurity.io/blog/kicking-the-bucket-gcp-cross-tenant/) by Omer Amiad, Apr 14, 2026  
+- [Mitigating Bucket Squatting in Google Cloud](https://focalsecurity.io/blog/mitigating-bucket-squatting-gcp/) by Omer Amiad, Apr 14, 2026  
 - [Double Agents: Exposing Security Blind Spots in GCP Vertex AI](https://unit42.paloaltonetworks.com/double-agents-vertex-ai/) by Ofir Shaty, Mar 31, 2026
 - [AppArmor and Seccomp in Kubernetes: What the Docs Don’t Tell You](https://platformwale.blog/2026/03/20/apparmor-and-seccomp-in-kubernetes-what-the-docs-dont-tell-you/) March 20, 2026  
 - [Unpatchable Vulnerabilities of Kubernetes: CVE-2020-8561](https://securitylabs.datadoghq.com/articles/unpatchable-kubernetes-vulnerabilities-cve-2020-8561/) by Rory McCune, March 27, 2026  
