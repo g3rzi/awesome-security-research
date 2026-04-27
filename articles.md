@@ -24,6 +24,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## AI  
+- [Olama Path Traversal - CVE-2026-7020](https://davidrochester.com/posts/cve-2026-7020/) by David Rochester, Apr 25, 2026  
 - [Jenny was a Friend of Mine - MCPs and Friends](https://blog.zsec.uk/bullyingllms/) by Andy Gill, Apr 4, 2026  
 - [Enhancing your Vulnerability Research LLM Agent](https://www.linkedin.com/pulse/enhancing-your-vulnerability-research-llm-agent-andrea-b-inume/) by Andrea B, March 31, 2026  
 - [Caught in the Hook: RCE and API Token Exfiltration Through Claude Code Project Files | CVE-2025-59536 | CVE-2026-21852](https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/) by Aviv Donenfeld and Oded Vanunu, Feb 25, 2026  
