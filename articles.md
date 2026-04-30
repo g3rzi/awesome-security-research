@@ -92,6 +92,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## 🐧 Linux  
+- [Copy Fail: 732 Bytes to Root on Every Major Linux Distribution](https://xint.io/blog/copy-fail-linux-distributions) by Xint Code Research Team, Apr 29, 2026  
 - [CVE-2021-22555: Turning \x00\x00 into 10000$](https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html) by Andy Nguyen (theflow@), 2021    
 --- 
 
