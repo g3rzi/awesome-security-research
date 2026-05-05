@@ -60,6 +60,7 @@ A curated collection of vulnerability research articles and blog posts.
 ### AI  
 - [Source to Sink: Improving LLM Vuln Discovery | [un]prompted 2026](https://www.youtube.com/watch?v=bxwEZMhqeR0&t=85s) by Scott Behrens & Justice Cassel, Mar 25, 2026  
 - [Black-hat LLMs | [un]prompted 2026](https://www.youtube.com/watch?v=1sd26pWhfmg) by Nicholas Carlini, Mar 25, 2026
+- [Scaling LLM-Based Vulnerability Research via Static Analysis and Document Ranking](https://www.youtube.com/watch?v=gKQeTfbXjZY) by Caleb Gross (@noperator), Nov 4, 2025  
 
 
 ### Kubernetes    
