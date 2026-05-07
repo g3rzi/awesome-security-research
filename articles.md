@@ -26,7 +26,8 @@ This file contains the **full list** of articles — the main [README](README.md
 ## AI  
 - [Olama Path Traversal - CVE-2026-7020](https://davidrochester.com/posts/cve-2026-7020/) by David Rochester, Apr 25, 2026  
 - [Jenny was a Friend of Mine - MCPs and Friends](https://blog.zsec.uk/bullyingllms/) by Andy Gill, Apr 4, 2026  
-- [Enhancing your Vulnerability Research LLM Agent](https://www.linkedin.com/pulse/enhancing-your-vulnerability-research-llm-agent-andrea-b-inume/) by Andrea B, March 31, 2026  
+- [Enhancing your Vulnerability Research LLM Agent](https://www.linkedin.com/pulse/enhancing-your-vulnerability-research-llm-agent-andrea-b-inume/) by Andrea B, March 31, 2026
+- [Needle in the haystack: LLMs for vulnerability research](https://devansh.bearblog.dev/needle-in-the-haystack/) by Devansh Batham, Mar 9, 2026  
 - [Caught in the Hook: RCE and API Token Exfiltration Through Claude Code Project Files | CVE-2025-59536 | CVE-2026-21852](https://research.checkpoint.com/2026/rce-and-api-token-exfiltration-through-claude-code-project-files-cve-2025-59536/) by Aviv Donenfeld and Oded Vanunu, Feb 25, 2026  
 - [N8Scape (Pyodide sandbox escape): 9.9 Critical Post-Auth RCE in n8n (CVE-2025-68668)](https://www.cyera.com/research-labs/n8scape-pyodide-sandbox-escape-9-9-critical-post-auth-rce-in-n8n-cve-2025-68668) by Vladimir Tokarev Ofek Itach, Jan 13, 2026
 - [BodySnatcher (CVE-2025-12420): A Broken Authentication and Agentic Hijacking Vulnerability in ServiceNow](https://appomni.com/ao-labs/bodysnatcher-agentic-ai-security-vulnerability-in-servicenow/) by Appomni, Jan 13, 2026  
