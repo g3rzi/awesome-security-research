@@ -24,7 +24,9 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## AI  
-- [Olama Path Traversal - CVE-2026-7020](https://davidrochester.com/posts/cve-2026-7020/) by David Rochester, Apr 25, 2026  
+- [Finding Zero-Days with Any Model](https://www.provos.org/p/finding-zero-days-with-any-model/) by Niels Provos, Apr 29, 2026   
+- [Olama Path Traversal - CVE-2026-7020](https://davidrochester.com/posts/cve-2026-7020/) by David Rochester, Apr 25, 2026
+- [The Boy That Cried Mythos: Verification is Collapsing Trust in Anthropic](https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/) by Davi Ottenheimer, Apr 13, 2026  
 - [Jenny was a Friend of Mine - MCPs and Friends](https://blog.zsec.uk/bullyingllms/) by Andy Gill, Apr 4, 2026  
 - [Enhancing your Vulnerability Research LLM Agent](https://www.linkedin.com/pulse/enhancing-your-vulnerability-research-llm-agent-andrea-b-inume/) by Andrea B, March 31, 2026
 - [Needle in the haystack: LLMs for vulnerability research](https://devansh.bearblog.dev/needle-in-the-haystack/) by Devansh Batham, Mar 9, 2026  
