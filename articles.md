@@ -159,6 +159,7 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## 🐳 Containers  
+- [Container Escape via Inference: CVE-2026-5817 / CVE-2026-5843](https://davidrochester.com/posts/container-escape-via-inference/) by David Rochester, May 20, 2026   
 - [Container Escape Telemetry, Part 6: TeamPCP and What the Lab Predicted](https://catscrdl.io/blog/containerescapetelemetry/teampcp/) by Daniel Wyleczuk-Stern, March 31, 2026  
 - [Container Escape Telemetry, Part 5: Tuning eBPF Tools From Defaults to Detection](https://catscrdl.io/blog/containerescapetelemetry/tuning/) by Daniel Wyleczuk-Stern, March 31, 2026  
 - [Container Escape Telemetry, Part 4: Volume, Signal-to-Noise, and Choosing a Tool](https://catscrdl.io/blog/containerescapetelemetry/production/) by Daniel Wyleczuk-Stern, March 31, 2026  
