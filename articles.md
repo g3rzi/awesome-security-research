@@ -166,7 +166,8 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Container Escape Telemetry, Part 3: What Each Tool Actually Captured](https://catscrdl.io/blog/containerescapetelemetry/deepdives/) by Daniel Wyleczuk-Stern, March 31, 2026  
 - [Container Escape Telemetry, Part 2: Methodology and Tool Architecture](https://catscrdl.io/blog/containerescapetelemetry/methodology/) by Daniel Wyleczuk-Stern, March 31, 2026  
 - [Container Escape Telemetry, Part 1: Isolation Primitives and the eBPF Observability Model](https://catscrdl.io/blog/containerescapetelemetry/isolation/) by Daniel Wyleczuk-Stern, March 31, 2026  
-- [Container Escape Telemetry: Series Overview](https://catscrdl.io/blog/containerescapetelemetry/intro/) by Daniel Wyleczuk-Stern, March 31, 2026  
+- [Container Escape Telemetry: Series Overview](https://catscrdl.io/blog/containerescapetelemetry/intro/) by Daniel Wyleczuk-Stern, March 31, 2026
+- [Exploiting Docker Model Runner’s OCI Authentication Flow](https://davidrochester.com/posts/cve-2026-33990/) by David Rochester, Mar 29, 2026 
 - [Quantifying Frontier LLM Capabilities for Container Sandbox Escape (PDF)](https://arxiv.org/pdf/2603.02277) by [Arxiv](https://arxiv.org/abs/2603.02277) (academic), Mar 1, 2026
 - [Container Escape via /proc/sys/kernel/hotplug](https://github.com/Asbatel/hotplug-container-escape) by Asbatel, Feb 11, 2026  
 - [HEXACON 2025 - CUDA de Grâce by Valentina Palmiotti & Samuel Lovejoy](https://docs.google.com/presentation/d/1FgfURpMyHhnflGWtxeq8ClPPaB5ZDCzT/edit?slide=id.p1#slide=id.p1) (🔥)  by Valentina Palmiotti & Samuel Lovejoy, Nov 24, 2025 - 🎥 [Talk](https://www.youtube.com/watch?v=Lvz2_ZHj3lo)
