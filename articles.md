@@ -100,6 +100,7 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## ☁️ Kubernetes & Cloud   
+- [StubZero: $148,337 RCE in Google Cloud Production](https://brutecat.com/articles/google-cloud-rce/) by Arvin Shivram, May 22, 2026  
 - [Kicking the Bucket: Critical RCE and Cross-Tenant Exploits in 3 Different GCP Products](https://focalsecurity.io/blog/kicking-the-bucket-gcp-cross-tenant/) by Omer Amiad, Apr 14, 2026  
 - [Mitigating Bucket Squatting in Google Cloud](https://focalsecurity.io/blog/mitigating-bucket-squatting-gcp/) by Omer Amiad, Apr 14, 2026  
 - [Double Agents: Exposing Security Blind Spots in GCP Vertex AI](https://unit42.paloaltonetworks.com/double-agents-vertex-ai/) by Ofir Shaty, Mar 31, 2026
