@@ -101,13 +101,14 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## ☁️ Kubernetes & Cloud   
-- [StubZero: $148,337 RCE in Google Cloud Production](https://brutecat.com/articles/google-cloud-rce/) by Arvin Shivram, May 22, 2026  
+- [StubZero: $148,337 RCE in Google Cloud Production](https://brutecat.com/articles/google-cloud-rce/) by Arvin Shivram, May 22, 2026
+- [CVE-2026-2006: Encoding bug in PostgreSQL pgcrypto leads to Remote Code Execution](https://www.zeroday.cloud/blog/postgresql-cve-2026-2005-deep-dive) by Team Bugz Bunnies, May 4, 2026  
 - [Kicking the Bucket: Critical RCE and Cross-Tenant Exploits in 3 Different GCP Products](https://focalsecurity.io/blog/kicking-the-bucket-gcp-cross-tenant/) by Omer Amiad, Apr 14, 2026  
 - [Mitigating Bucket Squatting in Google Cloud](https://focalsecurity.io/blog/mitigating-bucket-squatting-gcp/) by Omer Amiad, Apr 14, 2026  
 - [Double Agents: Exposing Security Blind Spots in GCP Vertex AI](https://unit42.paloaltonetworks.com/double-agents-vertex-ai/) by Ofir Shaty, Mar 31, 2026
 - [AppArmor and Seccomp in Kubernetes: What the Docs Don’t Tell You](https://platformwale.blog/2026/03/20/apparmor-and-seccomp-in-kubernetes-what-the-docs-dont-tell-you/) March 20, 2026  
-- [Unpatchable Vulnerabilities of Kubernetes: CVE-2020-8561](https://securitylabs.datadoghq.com/articles/unpatchable-kubernetes-vulnerabilities-cve-2020-8561/) by Rory McCune, March 27, 2026  
-- [Kubernetes Remote Code Execution Via Nodes/Proxy GET Permission](https://grahamhelton.com/blog/nodes-proxy-rce) by Graham Helton, Jan 26, 2026  
+- [Unpatchable Vulnerabilities of Kubernetes: CVE-2020-8561](https://securitylabs.datadoghq.com/articles/unpatchable-kubernetes-vulnerabilities-cve-2020-8561/) by Rory McCune, March 27, 2026
+- [Kubernetes Remote Code Execution Via Nodes/Proxy GET Permission](https://grahamhelton.com/blog/nodes-proxy-rce) by Graham Helton, Jan 26, 2026
 - [What a Cluster: Local Volumes Vulnerability in Kubernetes](https://www.akamai.com/blog/security-research/kubernetes-local-volumes-command-injection-vulnerability-rce-system-privileges) by Tomer Peled, March 13, 2024
 - [Azure HDInsight: The Sequel – Unveiling 3 New Vulnerabilities That Could Have Led to Privilege Escalations and Denial of Service](https://orca.security/resources/blog/azure-hd-insight-vulnerabilities-privilege-escalation/) by Lidor Ben Shitrit (Orca), Feb 6, 2024
 - [ModeLeak: Privilege Escalation to LLM Model Exfiltration in Vertex AI](https://unit42.paloaltonetworks.com/privilege-escalation-llm-model-exfil-vertex-ai/) by Ofir Balassiano and Ofir Shaty, Nov 12, 2024  
