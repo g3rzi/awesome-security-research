@@ -253,6 +253,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ---
 ## Web  
+- [The Internet Is Falling Down, Falling Down, Falling Down (cPanel & WHM Authentication Bypass CVE-2026-41940)](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/) by Sina Kheirkhah (@SinSinology), Apr 29, 2026  
 - [Business, logic, and chains: unauthenticated RCE in Dell Wyse Management Suite](https://swarm.ptsecurity.com/business-logic-and-chains-unauthenticated-rce-in-dell-wyse-management-suite/) by Aleksandr Zhurnakov (PT Swarm), March 23, 2026  
 - [GatewayToHeaven: Finding a Cross-Tenant Vulnerability in GCP's Apigee](https://omeramiad.com/posts/gatewaytoheaven-gcp-cross-tenant-vulnerability/) by Omer Amiad, Jan 28, 2026  
 - [CVE-2026-23958 Compromises Admin Accounts on DataEase ; Enterprise BI at Risk](https://www.ox.security/blog/blog-dataease-cve-2026-23958-admin-takeover/) by Nir Zadok and Eyal Paz, Jan 21, 2026   
