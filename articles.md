@@ -341,6 +341,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Code Execution in Jupyter Notebook Exports](https://www.imperva.com/blog/code-execution-in-jupyter-notebook-exports/) by Yohann Sillam, Dec 16, 2025  
 - [Trust Me, I’m a Robot: Can We Trust RPA With Our Most Guarded Secrets?](https://www.cyberark.com/resources/threat-research-blog/trust-me-i-m-a-robot-can-we-trust-rpa-with-our-most-guarded-secrets) (🔥) by Nimrod Stoler
 - [CVE-2019-1306: Are you my Index?](https://www.zerodayinitiative.com/blog/2019/10/23/cve-2019-1306-are-you-my-index) by [Mikhail Shcherbakov](https://x.com/yu5k3)
+- [ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/) (🔥) by David Leadbeater, October 5, 2023  
 ---
 
 ## CTFs WriteUps
