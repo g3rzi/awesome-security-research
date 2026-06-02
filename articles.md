@@ -24,6 +24,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## AI  
+- [Building An Ai Based Vulnerability Detection Workflow](https://blog.cykor.kr/2026/06/Building-an-AI-Based-Vulnerability-Detection-Workflow) by CyKor, Korea University Hacking Club, Jun 1, 2026  ([tweet](https://x.com/CyKorKU/status/2061320972700147765?s=20))  
 - [Finding Zero-Days with Any Model](https://www.provos.org/p/finding-zero-days-with-any-model/) by Niels Provos, Apr 29, 2026   
 - [Olama Path Traversal - CVE-2026-7020](https://davidrochester.com/posts/cve-2026-7020/) by David Rochester, Apr 25, 2026
 - [The Boy That Cried Mythos: Verification is Collapsing Trust in Anthropic](https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/) by Davi Ottenheimer, Apr 13, 2026  
