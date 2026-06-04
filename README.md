@@ -181,7 +181,8 @@ A curated collection of vulnerability research articles and blog posts.
 - [IDA](https://hex-rays.com/ida-free)  
 - [radare](https://radare.org/n/) by pancake  
 - [WinDBG](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/)
-- [Ghidra](https://github.com/NationalSecurityAgency/ghidra)  
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
+- [webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 
 ### Linux
 - [PEASS-ng - Privilege Escalation Awesome Scripts SUITE new generation](https://github.com/peass-ng/PEASS-ng) (🔥)
