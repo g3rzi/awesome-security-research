@@ -173,8 +173,9 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Container Escape Telemetry: Series Overview](https://catscrdl.io/blog/containerescapetelemetry/intro/) by Daniel Wyleczuk-Stern, March 31, 2026
 - [Exploiting Docker Model Runner’s OCI Authentication Flow](https://davidrochester.com/posts/cve-2026-33990/) by David Rochester, Mar 29, 2026 
 - [Quantifying Frontier LLM Capabilities for Container Sandbox Escape (PDF)](https://arxiv.org/pdf/2603.02277) by [Arxiv](https://arxiv.org/abs/2603.02277) (academic), Mar 1, 2026
-- [Container Escape via /proc/sys/kernel/hotplug](https://github.com/Asbatel/hotplug-container-escape) by Asbatel, Feb 11, 2026  
-- [HEXACON 2025 - CUDA de Grâce by Valentina Palmiotti & Samuel Lovejoy](https://docs.google.com/presentation/d/1FgfURpMyHhnflGWtxeq8ClPPaB5ZDCzT/edit?slide=id.p1#slide=id.p1) (🔥)  by Valentina Palmiotti & Samuel Lovejoy, Nov 24, 2025 - 🎥 [Talk](https://www.youtube.com/watch?v=Lvz2_ZHj3lo)
+- [Container Escape via /proc/sys/kernel/hotplug](https://github.com/Asbatel/hotplug-container-escape) by Asbatel, Feb 11, 2026
+- [Google Cloud Shell Container Escape](https://medium.com/@win3zz/google-cloud-shell-container-escape-b69ffb46b5df) by Bipin Jitiya, Dev 14, 2025  
+- [HEXACON 2025 - CUDA de Grâce by Valentina Palmiotti & Samuel Lovejoy](https://docs.google.com/presentation/d/1FgfURpMyHhnflGWtxeq8ClPPaB5ZDCzT/edit?slide=id.p1#slide=id.p1) (🔥)  by Valentina Palmiotti & Samuel Lovejoy, Nov 24, 2025 - 🎥 [Talk](https://www.youtube.com/watch?v=Lvz2_ZHj3lo)  
 - [Docker Container Escape by Exploiting CGroups](https://medium.com/@indigoshadowwashere/docker-container-escape-by-exploiting-cgroups-e52efab898d3) by Indigo Shadow, Nov 16, 2025  
 - [Fun-reliable side-channels for cross-container communication](https://h4x0r.org/funreliable/) by Ivan, Nov 12, 2025
 - [container escape via "masked path" abuse due to mount race conditions](https://github.com/opencontainers/runc/security/advisories/GHSA-9493-h29p-rfm2) Nov 5, 2025  
