@@ -88,6 +88,7 @@ A curated collection of vulnerability research articles and blog posts.
 ## Tools  
 
 ### Framework
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing framework and MCP host for web, API, Active Directory and Kubernetes
 - [raptor](https://github.com/gadievron/raptor) - turns Claude Code into a general-purpose AI
 
 ### Web  
