@@ -217,7 +217,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Siloscape: First Known Malware Targeting Windows Containers to Compromise Cloud Environments](https://unit42.paloaltonetworks.com/siloscape/) by Daniel Prizmant, June 7, 2021
 - [Escaping Virtualized Containers (PDF)](https://i.blackhat.com/asia-20/Friday/asia-20-Yuval-Avrahami-Escaping-Virtualized-Containers.pdf) (🔥) by Yuval Avrahami, May 14, 2021 - 🎥 [Talk](https://www.youtube.com/watch?v=jFlqVe11eeM)  
 - [Who Contains the Containers?](https://googleprojectzero.blogspot.com/2021/04/who-contains-containers.html) (🔥) by James Forshaw, April 1, 2021   
-- [The Strange Case of How We Escaped the Docker Default Container](https://www.cyberark.com/resources/threat-research-blog/the-strange-case-of-how-we-escaped-the-docker-default-container) by Nimrod Stoler and Gilad Reti, March 4, 2021
+- [The Strange Case of How We Escaped the Docker Default Container](https://www.cyberark.com/resources/threat-research-blog/the-strange-case-of-how-we-escaped-the-docker-default-container) [archived](https://web.archive.org/web/20260514070933/https://www.cyberark.com/resources/threat-research-blog/the-strange-case-of-how-we-escaped-the-docker-default-container) by Nimrod Stoler and Gilad Reti, March 4, 2021
 - [BitBucket Pipelines Kata Containers Virtual Machine Escape](https://blog.ajxchapman.com/posts/2021/02/28/kata-containers-escape.html) by [Alex Chapman](https://github.com/ajxchapman), Feb 28, 2021   
 - [Towards Improving Container Security by Preventing Runtime Escapes (PDF)](https://www.osti.gov/servlets/purl/1890908), 2021  
 - [Container Breakouts – Part 3: Docker Socket](https://blog.nody.cc/posts/container-breakouts-part3/) by Jan Harrie, July 30, 2020  
