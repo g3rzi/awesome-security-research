@@ -24,6 +24,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## AI  
+- [security researchers are doomed.](https://www.linkedin.com/pulse/security-researchers-doomed-roni-carta-1roze/?trackingId=DprtY12rc3hOC%2BNz79cPSQ%3D%3D) by Roni Carta, August 13, 2026  
 - [Building An Ai Based Vulnerability Detection Workflow](https://blog.cykor.kr/2026/06/Building-an-AI-Based-Vulnerability-Detection-Workflow) by CyKor, Korea University Hacking Club, Jun 1, 2026  ([tweet](https://x.com/CyKorKU/status/2061320972700147765?s=20))  
 - [Finding Zero-Days with Any Model](https://www.provos.org/p/finding-zero-days-with-any-model/) by Niels Provos, Apr 29, 2026   
 - [Olama Path Traversal - CVE-2026-7020](https://davidrochester.com/posts/cve-2026-7020/) by David Rochester, Apr 25, 2026
@@ -40,6 +41,8 @@ This file contains the **full list** of articles — the main [README](README.md
 
 
 ## 🪟 Windows   
+- [BTR Reforged: Weaponizing Defender’s Remediation Driver as a Kernel Operation Primitive](https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/) by  Jiří Vinopal (@vinopaljiri), August 20, 2026
+- [SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit](https://github.com/omribaso/sccm-cve-2026-47301-remote-code-execution-exploit) by Omri Baso, August 3, 2026  
 - [CVE-2026-40369: Twelve Bytes to Escape the Browser Sandbox](https://voidsec.com/cve-2026-40369-browser-sandbox-escape/) by voidsec, May 20, 2026  
 - [0x00 - Introduction to Windows Kernel Exploitation](https://wetw0rk.github.io/posts/0x00-introduction-to-windows-kernel-exploitation/) by Milton V (wetw0rk), Mar 17, 2026  
 - [Microsoft Windows Cloud Files Minifilter TOCTOU Privilege Escalation](https://blog.exodusintel.com/2025/10/20/microsoft-windows-cloud-files-minifilter-toctou-privilege-escalation/) by Michele Campa, Oct 20, 2025
@@ -103,7 +106,10 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## ☁️ Kubernetes & Cloud   
-- [StubZero: $148,337 RCE in Google Cloud Production](https://brutecat.com/articles/google-cloud-rce/) by Arvin Shivram, May 22, 2026
+- [CVE-2026-76092: How I Discovered a Critical Vulnerability in Docker MCP with a CVSS 9.2](https://gikaku.net/2026/08/20/cve-2026-76092/) by HE WEI, August 20, 2026
+- [Red Hat CVE-2026-63622: libvirt swtpm symlink privilege escalation](https://gikaku.net/2026/08/12/cve-2026-63622/) by HE WEI, August 12, 2026  
+- [CosmosEscape: Taking Over Every Database in Azure Cosmos DB](https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db) (🔥) by Yuval Avrahami and Lior Maman, July 30, 2026  
+- [StubZero: $148,337 RCE in Google Cloud Production](https://brutecat.com/articles/google-cloud-rce/) by Arvin Shivram, May 22, 2026 
 - [CVE-2026-2006: Encoding bug in PostgreSQL pgcrypto leads to Remote Code Execution](https://www.zeroday.cloud/blog/postgresql-cve-2026-2005-deep-dive) by Team Bugz Bunnies, May 4, 2026  
 - [Kicking the Bucket: Critical RCE and Cross-Tenant Exploits in 3 Different GCP Products](https://focalsecurity.io/blog/kicking-the-bucket-gcp-cross-tenant/) by Omer Amiad, Apr 14, 2026  
 - [Mitigating Bucket Squatting in Google Cloud](https://focalsecurity.io/blog/mitigating-bucket-squatting-gcp/) by Omer Amiad, Apr 14, 2026  
