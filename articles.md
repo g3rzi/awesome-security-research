@@ -46,6 +46,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [CVE-2026-40369: Twelve Bytes to Escape the Browser Sandbox](https://voidsec.com/cve-2026-40369-browser-sandbox-escape/) by voidsec, May 20, 2026  
 - [0x00 - Introduction to Windows Kernel Exploitation](https://wetw0rk.github.io/posts/0x00-introduction-to-windows-kernel-exploitation/) by Milton V (wetw0rk), Mar 17, 2026  
 - [Microsoft Windows Cloud Files Minifilter TOCTOU Privilege Escalation](https://blog.exodusintel.com/2025/10/20/microsoft-windows-cloud-files-minifilter-toctou-privilege-escalation/) by Michele Campa, Oct 20, 2025
+- [Win-DoS Epidemic: A Crash Course in Abusing RPC for Win-DoS & Win-DDoS](https://www.safebreach.com/blog/win-dos-epidemic-abusing-rpc-for-dos-and-ddos/) by Or Yair and Shahak Morag, August 10, 2025  
 - [Dynamic Debugging of dotnet Without Source Code](https://pulsesecurity.co.nz/articles/dotnet-dynamic-analysis) by Denis Andzakovic, May 15, 2023  
 - [Finding Running RPC Server Information with NtObjectManager](https://www.tiraniddo.dev/2022/06/finding-running-rpc-server-information.html) by James Forshaw, Jun 26, 2022  
 - [Abusing Arbitrary File Deletes to Escalate Privilege and Other Great Tricks](https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks) (🔥) by Simon Zuckerbraun, ,March 17, 2022  
