@@ -64,6 +64,7 @@ A curated collection of vulnerability research articles and blog posts.
 
 
 ### Kubernetes    
+- [Ozzie & Nova: A Kubernetes Security Play | Whitney Lee](https://www.youtube.com/watch?v=RQXCzOaxGE4) by Whiteny Lee, August 3, 2026  
 - [Kubernetes Privilege Escalation: Container Escape == Cluster Admin?](https://www.youtube.com/watch?v=oc1tq_r6VNM) by Yuval Avrahami and Shaul Ben Hai, November 28, 2022
 - [DEF CON 30 - Billy Jheng, Muhammad Ramdhan - All Roads Lead to GKEs Host - 4+ Ways to Escape](https://www.youtube.com/watch?v=DcyjTlTIcMA) by Billy Jheng and Muhammad Ramdhan, Oct 20, 2022  
 
