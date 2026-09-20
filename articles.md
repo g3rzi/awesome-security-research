@@ -24,7 +24,8 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## AI  
-- [security researchers are doomed.](https://www.linkedin.com/pulse/security-researchers-doomed-roni-carta-1roze/?trackingId=DprtY12rc3hOC%2BNz79cPSQ%3D%3D) by Roni Carta, August 13, 2026  
+- [security researchers are doomed.](https://www.linkedin.com/pulse/security-researchers-doomed-roni-carta-1roze/?trackingId=DprtY12rc3hOC%2BNz79cPSQ%3D%3D) by Roni Carta, August 13, 2026
+- [Hacking Google with A.I. for $500,000](https://brutecat.com/articles/hacking-google-with-ai/) by Arvin Shivram, June 11, 2026  
 - [Building An Ai Based Vulnerability Detection Workflow](https://blog.cykor.kr/2026/06/Building-an-AI-Based-Vulnerability-Detection-Workflow) by CyKor, Korea University Hacking Club, Jun 1, 2026  ([tweet](https://x.com/CyKorKU/status/2061320972700147765?s=20))  
 - [Finding Zero-Days with Any Model](https://www.provos.org/p/finding-zero-days-with-any-model/) by Niels Provos, Apr 29, 2026   
 - [Olama Path Traversal - CVE-2026-7020](https://davidrochester.com/posts/cve-2026-7020/) by David Rochester, Apr 25, 2026
@@ -41,6 +42,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 
 ## 🪟 Windows   
+- [KernelSight](https://splintersfury.github.io/KernelSight/) by splintersfury, Sep 4, 2026  
 - [BTR Reforged: Weaponizing Defender’s Remediation Driver as a Kernel Operation Primitive](https://research.checkpoint.com/2026/btr-reforged-weaponizing-defenders-remediation-driver-as-a-kernel-operation-primitive/) by  Jiří Vinopal (@vinopaljiri), August 20, 2026
 - [SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit](https://github.com/omribaso/sccm-cve-2026-47301-remote-code-execution-exploit) by Omri Baso, August 3, 2026  
 - [CVE-2026-40369: Twelve Bytes to Escape the Browser Sandbox](https://voidsec.com/cve-2026-40369-browser-sandbox-escape/) by voidsec, May 20, 2026  
@@ -64,6 +66,8 @@ This file contains the **full list** of articles — the main [README](README.md
 
 
 ### Privilege Escalation  
+- [Windows Privilege Escalation: SeTcbPrivilege](https://www.hackingarticles.in/windows-privilege-escalation-setcbprivilege/) by Raj Chandel, July 15, 2026  
+- [CVE-2026-42980 Public Disclosure](https://github.com/G4sp4rCS/CVE-2026-42980-POC) by G4sp4rCS, July 7, 2026   
 - [PhantomRPC: A new privilege escalation technique in Windows RPC](https://securelist.com/phantomrpc-rpc-vulnerability/119428/) by Haidar Kabibo, Apr 26, 2026  
 - [CVE-2026-20817 - Windows Error Reporting Service EoP](https://itm4n.github.io/cve-2026-20817-wersvc-eop/) by Clément Labro(itm4n), March 22, 2026  
 - [RIP RegPwn (CVE-2026-24291)](https://www.mdsec.co.uk/2026/03/rip-regpwn/) by Filip Dragovic (MDSec), March 13, 2026
@@ -101,6 +105,9 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## 🐧 Linux  
+- [A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill](https://heyitsas.im/posts/lpe-quartet/) by Asim
+- [CVE-2026-90048: When 24 Bytes Become 32 in Linux NTFS3](https://gikaku.net/2026/09/17/cve-2026-90048/) by He Wei, Sep 17, 2026
+- [The Art of Exploit Development](https://github.com/KazamaDono/taoxd/) by Ayukotsu K, Sep 16, 2026
 - [VMs won't contain cyber-capable agents](https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/) by Artem Dinaburg, August 26, 2026  
 - [Off By !: Exploiting a Use-after-Free in the Linux Kernel - CVE-2026-23111.](https://blog.exodusintel.com/2026/06/08/off-by-exploiting-a-use-after-free-in-the-linux-kernel/) by Oliver Sieber, Jun 8, 2026  
 - [Copy Fail: 732 Bytes to Root on Every Major Linux Distribution](https://xint.io/blog/copy-fail-linux-distributions) by Xint Code Research Team, Apr 29, 2026  
@@ -171,7 +178,8 @@ This file contains the **full list** of articles — the main [README](README.md
 
 --- 
 
-## 🐳 Containers  
+## 🐳 Containers 
+- [Guest to host: escaping Docker's hypervisor](https://www.accomplish.ai/blog/escaping-dockers-hypervisor/) by Oren Yomtov, Sep 19, 2026  
 - [Container Escape via Inference: CVE-2026-5817 / CVE-2026-5843](https://davidrochester.com/posts/container-escape-via-inference/) by David Rochester, May 20, 2026   
 - [Container Escape Telemetry, Part 6: TeamPCP and What the Lab Predicted](https://catscrdl.io/blog/containerescapetelemetry/teampcp/) by Daniel Wyleczuk-Stern, March 31, 2026  
 - [Container Escape Telemetry, Part 5: Tuning eBPF Tools From Defaults to Detection](https://catscrdl.io/blog/containerescapetelemetry/tuning/) by Daniel Wyleczuk-Stern, March 31, 2026  
@@ -264,6 +272,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ---
 ## Web  
+- [Breaking into Google's GFile for $100k](https://www.linkedin.com/in/eviatar-g-25bb6225/recent-activity/reactions/) by Arvin Shivram, Sep 16, 2026  
 - [The Internet Is Falling Down, Falling Down, Falling Down (cPanel & WHM Authentication Bypass CVE-2026-41940)](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/) by Sina Kheirkhah (@SinSinology), Apr 29, 2026  
 - [Business, logic, and chains: unauthenticated RCE in Dell Wyse Management Suite](https://swarm.ptsecurity.com/business-logic-and-chains-unauthenticated-rce-in-dell-wyse-management-suite/) by Aleksandr Zhurnakov (PT Swarm), March 23, 2026  
 - [GatewayToHeaven: Finding a Cross-Tenant Vulnerability in GCP's Apigee](https://omeramiad.com/posts/gatewaytoheaven-gcp-cross-tenant-vulnerability/) by Omer Amiad, Jan 28, 2026  
