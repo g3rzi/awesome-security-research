@@ -144,7 +144,7 @@ A curated collection of vulnerability research articles and blog posts.
 
 
 ### Windows  
-
+- [hoaxshell - A Windows reverse shell payload generator and handler that abuses the http(s) protocol to establish a beacon-like reverse shell.](https://github.com/t3l3machus/hoaxshell)
 - [Faxhell - A Proof-of-Concept bind shell using the Fax service and a DLL hijack based on Ualapi.dll](https://github.com/ionescu007/faxhell)
 - [pestudio](https://www.winitor.com/download) by Marc Ochsenmeier   
 - [CFF Explorer](https://ntcore.com/explorer-suite/)  
