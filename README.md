@@ -106,6 +106,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [Fuzzapi (Depcrecated)](https://github.com/Fuzzapi/fuzzapi) - REST API pentesting
 - [Shannon](https://github.com/KeygraphHQ/shannon) - AI Pentester for Web Apps and APIs
 - [awesome-apisec](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. 
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ### AI  
 - [pi - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI](https://github.com/earendil-works/pi)
