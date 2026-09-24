@@ -24,6 +24,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## AI  
+- [hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai) by Harsh Jaiswal, Mohan Pedhapati and Rahul Maini, September 13, 2026  
 - [security researchers are doomed.](https://www.linkedin.com/pulse/security-researchers-doomed-roni-carta-1roze/?trackingId=DprtY12rc3hOC%2BNz79cPSQ%3D%3D) by Roni Carta, August 13, 2026
 - [Hacking Google with A.I. for $500,000](https://brutecat.com/articles/hacking-google-with-ai/) by Arvin Shivram, June 11, 2026  
 - [Building An Ai Based Vulnerability Detection Workflow](https://blog.cykor.kr/2026/06/Building-an-AI-Based-Vulnerability-Detection-Workflow) by CyKor, Korea University Hacking Club, Jun 1, 2026  ([tweet](https://x.com/CyKorKU/status/2061320972700147765?s=20))  
