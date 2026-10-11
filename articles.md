@@ -24,6 +24,8 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## AI  
+- [Dearbhadh Retrospective](https://raesene.github.io/blog/2026/10/08/dearbhadh-retrospective/) by Rory Raesene, October 8, 2026
+- [The model isn't cooperating](https://portswigger.net/research/the-model-isnt-cooperating) by James Kettle, October 6, 2026  
 - [hacking OpenAI - A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories](https://www.hacktron.ai/blog/hacking-openai) by Harsh Jaiswal, Mohan Pedhapati and Rahul Maini, September 13, 2026  
 - [security researchers are doomed.](https://www.linkedin.com/pulse/security-researchers-doomed-roni-carta-1roze/?trackingId=DprtY12rc3hOC%2BNz79cPSQ%3D%3D) by Roni Carta, August 13, 2026
 - [Hacking Google with A.I. for $500,000](https://brutecat.com/articles/hacking-google-with-ai/) by Arvin Shivram, June 11, 2026  
@@ -116,7 +118,8 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## ☁️ Kubernetes & Cloud   
-- [CVE-2026-76092: How I Discovered a Critical Vulnerability in Docker MCP with a CVSS 9.2](https://gikaku.net/2026/08/20/cve-2026-76092/) by HE WEI, August 20, 2026
+- [When Copy Means Compromise: How kubectl cp Enables RCE on Windows](https://cycode.com/blog/kubectl-cp-windows-path-traversal-rce-cve-2026-19444/) by Moriel Harush, October 6, 2026  
+- [CVE-2026-76092: How I Discovered a Critical Vulnerability in Docker MCP with a CVSS 9.2](https://gikaku.net/2026/08/20/cve-2026-76092/) by HE WEI, August 20, 2026  
 - [Red Hat CVE-2026-63622: libvirt swtpm symlink privilege escalation](https://gikaku.net/2026/08/12/cve-2026-63622/) by HE WEI, August 12, 2026  
 - [CosmosEscape: Taking Over Every Database in Azure Cosmos DB](https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db) (🔥) by Yuval Avrahami and Lior Maman, July 30, 2026  
 - [StubZero: $148,337 RCE in Google Cloud Production](https://brutecat.com/articles/google-cloud-rce/) by Arvin Shivram, May 22, 2026 
