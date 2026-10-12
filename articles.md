@@ -276,6 +276,7 @@ This file contains the **full list** of articles — the main [README](README.md
 
 ---
 ## Web  
+- [How I Found a $90,000 Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce) by Simon Koeck, Oct 12, 2026  
 - [Breaking into Google's GFile for $100k](https://www.linkedin.com/in/eviatar-g-25bb6225/recent-activity/reactions/) by Arvin Shivram, Sep 16, 2026  
 - [The Internet Is Falling Down, Falling Down, Falling Down (cPanel & WHM Authentication Bypass CVE-2026-41940)](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/) by Sina Kheirkhah (@SinSinology), Apr 29, 2026  
 - [Business, logic, and chains: unauthenticated RCE in Dell Wyse Management Suite](https://swarm.ptsecurity.com/business-logic-and-chains-unauthenticated-rce-in-dell-wyse-management-suite/) by Aleksandr Zhurnakov (PT Swarm), March 23, 2026  
