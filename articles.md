@@ -108,10 +108,12 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## 🐧 Linux  
-- [From Use-After-Free to Pre-Authentication RCE in NFS-Ganesha](https://rootkited.github.io/blog/notes/nfs-ganesha-9p-uaf-pre-authentication-rce/) by Ted, October 18, 2026  
+- [From Use-After-Free to Pre-Authentication RCE in NFS-Ganesha](https://rootkited.github.io/blog/notes/nfs-ganesha-9p-uaf-pre-authentication-rce/) by Ted, October 18, 2026
+- [PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)](https://pwn.ai/blog/pwnescape) by Paulos Yibelo, October 15, 2026  
 - [A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill](https://heyitsas.im/posts/lpe-quartet/) by Asim
 - [CVE-2026-90048: When 24 Bytes Become 32 in Linux NTFS3](https://gikaku.net/2026/09/17/cve-2026-90048/) by He Wei, Sep 17, 2026
 - [The Art of Exploit Development](https://github.com/KazamaDono/taoxd/) by Ayukotsu K, Sep 16, 2026
+- [CVE-2026-92392: HTTP/2 upload Use-After-Free](https://hackerone.com/reports/4030333) by onn4a, September 15, 2026  
 - [VMs won't contain cyber-capable agents](https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/) by Artem Dinaburg, August 26, 2026  
 - [Off By !: Exploiting a Use-after-Free in the Linux Kernel - CVE-2026-23111.](https://blog.exodusintel.com/2026/06/08/off-by-exploiting-a-use-after-free-in-the-linux-kernel/) by Oliver Sieber, Jun 8, 2026  
 - [Copy Fail: 732 Bytes to Root on Every Major Linux Distribution](https://xint.io/blog/copy-fail-linux-distributions) by Xint Code Research Team, Apr 29, 2026  
@@ -306,6 +308,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---
 
 ## 🌐 Identity  
+- [Keycloak Account Takeover - CVE-2026-19607](https://7ragnarok7.github.io/CVE-2026-19607/) by Anurag Mondal (7Ragnarok7), October 18, 2026  
 - [One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/) by Dirk-jan Mollema, September 17, 2025    
 - [Forging Passkeys: Exploring the FIDO2 / WebAuthn Attack Surface](https://nullpt.rs/forging-passkeys) by [vmfunc](https://x.com/vmfunc), June 20, 2025
 - [WebAuthn Under Attack: How Trojans Can Compromise Your Credentials (PDF)](https://github.com/w3c/webauthn/files/12640140/WebAuthn.pdf) by Aditya Mitra and Anisha Ghosh, Sep 16, 2023 - [GitHub Issue ](https://github.com/w3c/webauthn/issues/1965)   
