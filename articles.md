@@ -108,6 +108,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## 🐧 Linux  
+- [From Use-After-Free to Pre-Authentication RCE in NFS-Ganesha](https://rootkited.github.io/blog/notes/nfs-ganesha-9p-uaf-pre-authentication-rce/) by Ted, October 18, 2026  
 - [A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill](https://heyitsas.im/posts/lpe-quartet/) by Asim
 - [CVE-2026-90048: When 24 Bytes Become 32 in Linux NTFS3](https://gikaku.net/2026/09/17/cve-2026-90048/) by He Wei, Sep 17, 2026
 - [The Art of Exploit Development](https://github.com/KazamaDono/taoxd/) by Ayukotsu K, Sep 16, 2026
