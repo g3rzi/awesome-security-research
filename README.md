@@ -108,6 +108,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [awesome-apisec](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. 
 
 ### AI  
+- [trustmebro Bypass llm guardrails by confusing it with fabricated tool output. ](https://github.com/DavidCarliez/trustmebro)  
 - [pi - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI](https://github.com/earendil-works/pi)
 - [AntiGravity](https://antigravity.google/download)
 - [NotebookLM](https://notebooklm.google/)  
