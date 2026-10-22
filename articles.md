@@ -121,6 +121,7 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## ☁️ Kubernetes & Cloud   
+- [php2shell](https://calif.io/php2shell/) by Calif, October 21, 2026  
 - [When Copy Means Compromise: How kubectl cp Enables RCE on Windows](https://cycode.com/blog/kubectl-cp-windows-path-traversal-rce-cve-2026-19444/) by Moriel Harush, October 6, 2026  
 - [CVE-2026-76092: How I Discovered a Critical Vulnerability in Docker MCP with a CVSS 9.2](https://gikaku.net/2026/08/20/cve-2026-76092/) by HE WEI, August 20, 2026  
 - [Red Hat CVE-2026-63622: libvirt swtpm symlink privilege escalation](https://gikaku.net/2026/08/12/cve-2026-63622/) by HE WEI, August 12, 2026  
