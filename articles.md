@@ -108,7 +108,7 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## 🐧 Linux  
-- [sshole](https://sshhole.com/) 
+- [sshole](https://sshhole.com/) by ozgun kultekin   
 - [From Use-After-Free to Pre-Authentication RCE in NFS-Ganesha](https://rootkited.github.io/blog/notes/nfs-ganesha-9p-uaf-pre-authentication-rce/) by Ted, October 18, 2026
 - [PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)](https://pwn.ai/blog/pwnescape) by Paulos Yibelo, October 15, 2026  
 - [A quartet of Linux local root vulns: DirtyAH6, PPPoEject, TUNderflow, and DiagSpill](https://heyitsas.im/posts/lpe-quartet/) by Asim
