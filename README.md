@@ -188,6 +188,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 
 ### Linux
+- [Linux syscall tables](https://syscall.sh/)
 - [PEASS-ng - Privilege Escalation Awesome Scripts SUITE new generation](https://github.com/peass-ng/PEASS-ng) (🔥)
 
   
