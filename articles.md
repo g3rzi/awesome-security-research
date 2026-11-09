@@ -24,6 +24,8 @@ This file contains the **full list** of articles — the main [README](README.md
 ---  
 
 ## AI  
+- [Harness Engineering for Vulnerability Research (Slides)](https://grahamhelton.com/talks/2026-unprompted-harness-engineering/) 🔥) by Graham Helton, October 27, 2026  
+- [Introduction To Harness Engineering For Vulnerability Research](https://grahamhelton.github.io/harness-engineering-workshop-book/introduction.html) (🔥) by Graham Helton, October 27, 2026   
 - [Dearbhadh Retrospective](https://raesene.github.io/blog/2026/10/08/dearbhadh-retrospective/) by Rory Raesene, October 8, 2026
 - [The model isn't cooperating](https://portswigger.net/research/the-model-isnt-cooperating) by James Kettle, October 6, 2026  
 - [hacking OpenAI - A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories](https://www.hacktron.ai/blog/hacking-openai) by Harsh Jaiswal, Mohan Pedhapati and Rahul Maini, September 13, 2026  
