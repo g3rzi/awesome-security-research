@@ -190,6 +190,7 @@ This file contains the **full list** of articles — the main [README](README.md
 --- 
 
 ## 🐳 Containers 
+- [Hostile Inference: Exploiting Docker Model Runner for Container Escapes](https://www.zerodayinitiative.com/blog/2026/11/17/hostile-inference-exploiting-docker-model-runner-for-container-escapes) by Nitesh Surana, Nov 18, 2026  
 - [Guest to host: escaping Docker's hypervisor](https://www.accomplish.ai/blog/escaping-dockers-hypervisor/) by Oren Yomtov, Sep 19, 2026  
 - [Container Escape via Inference: CVE-2026-5817 / CVE-2026-5843](https://davidrochester.com/posts/container-escape-via-inference/) by David Rochester, May 20, 2026   
 - [Container Escape Telemetry, Part 6: TeamPCP and What the Lab Predicted](https://catscrdl.io/blog/containerescapetelemetry/teampcp/) by Daniel Wyleczuk-Stern, March 31, 2026  
