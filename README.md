@@ -108,6 +108,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [awesome-apisec](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. 
 
 ### AI  
+- [SPLASH](https://github.com/incoai/splash) - A local inference engine for Apple silicon, built around the model.  
 - [trustmebro](https://github.com/DavidCarliez/trustmebro) - Bypass llm guardrails by confusing it with fabricated tool output.
 - [agentcov](https://github.com/trailofbits/agentcov) - gcov for what lines of code agents read
 - [trustmebro Bypass llm guardrails by confusing it with fabricated tool output. ](https://github.com/DavidCarliez/trustmebro)  
