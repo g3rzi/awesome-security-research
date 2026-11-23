@@ -101,6 +101,7 @@ A curated collection of vulnerability research articles and blog posts.
 - [Firecrawl](https://www.firecrawl.dev/playground?endpoint=scrape) - Scraping
 
 #### API  
+- [TruffleHog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - APIStorm One (Not published yet)  
 - [Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite  
 - [Fuzzapi (Depcrecated)](https://github.com/Fuzzapi/fuzzapi) - REST API pentesting
