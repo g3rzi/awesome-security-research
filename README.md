@@ -58,9 +58,11 @@ A curated collection of vulnerability research articles and blog posts.
 - [REcon 2015 - The movfuscator (Christopher Domas)](https://www.youtube.com/watch?v=2VF_wPkiBJY) by [Christopher Domas (xoreaxeaxeax)](https://github.com/xoreaxeaxeax), Feb 17, 2016  
 
 ### AI  
+- [Black-hat LLMs | [un]prompted 2026](https://www.youtube.com/watch?v=1sd26pWhfmg) by Nicholas Carlini Mar 25, 2026  
 - [Source to Sink: Improving LLM Vuln Discovery | [un]prompted 2026](https://www.youtube.com/watch?v=bxwEZMhqeR0&t=85s) by Scott Behrens & Justice Cassel, Mar 25, 2026  
 - [Black-hat LLMs | [un]prompted 2026](https://www.youtube.com/watch?v=1sd26pWhfmg) by Nicholas Carlini, Mar 25, 2026
-- [Scaling LLM-Based Vulnerability Research via Static Analysis and Document Ranking](https://www.youtube.com/watch?v=gKQeTfbXjZY) by Caleb Gross (@noperator), Nov 4, 2025  
+- [Scaling LLM-Based Vulnerability Research via Static Analysis and Document Ranking](https://www.youtube.com/watch?v=gKQeTfbXjZY) by Caleb Gross (@noperator), Nov 4, 2025
+- [O(N) the Money: Scaling Vulnerability Research w/LLMs](https://www.youtube.com/watch?v=72VAM5igvBM) by Caleb Gross, Oct 20, 2025 
 
 
 ### Kubernetes    
