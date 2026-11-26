@@ -316,6 +316,7 @@ This file contains the **full list** of articles — the main [README](README.md
 - [Keycloak Account Takeover - CVE-2026-19607](https://7ragnarok7.github.io/CVE-2026-19607/) by Anurag Mondal (7Ragnarok7), October 18, 2026  
 - [One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/) by Dirk-jan Mollema, September 17, 2025    
 - [Forging Passkeys: Exploring the FIDO2 / WebAuthn Attack Surface](https://nullpt.rs/forging-passkeys) by [vmfunc](https://x.com/vmfunc), June 20, 2025
+- [Subverting Web2 authentication in Web3](https://osec.io/blog/subverting-web2-authentication-in-web3/) by Bruno Halltari, Caue Obici, Mar 7, 2025  
 - [WebAuthn Under Attack: How Trojans Can Compromise Your Credentials (PDF)](https://github.com/w3c/webauthn/files/12640140/WebAuthn.pdf) by Aditya Mitra and Anisha Ghosh, Sep 16, 2023 - [GitHub Issue ](https://github.com/w3c/webauthn/issues/1965)   
 - [Bypassing Windows Hello Without Masks or Plastic Surgery](https://www.cyberark.com/resources/threat-research-blog/bypassing-windows-hello-without-masks-or-plastic-surgery) by Omer Tsarfati, Jul 17, 2023  
 - [Abusing FIDO2 passkeys to take over Global Administrators in Entra ID](https://cybersecurity.bureauveritas.com/services/information-technology/pentesting-services/what-can-be-pentested/cloud-pentesting/abusing-fido2-passkeys) by Max Rozendaal  
